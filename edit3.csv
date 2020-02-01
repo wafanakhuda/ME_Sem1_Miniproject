@@ -1,0 +1,1225 @@
+YEAR,BRANCH,TENTH,TWELVETH,BE BRANCH,BE_AGG,COMPANY PLCD,STIPEND
+2012,DD,NaN,NaN,IT,61.88,"GroupT, Belgium",NaN
+2012,DD,78.8,73.6,IT,62.22,"LU, UK",NaN
+2012,DD,85,71.4,IT,7.1,"GroupT, Belgium",NaN
+2012,DD,86,60,ISE,61,"LU, UK",NaN
+2012,DD,87,86,CSE,88.5,"LU, UK",NaN
+2012,DD,64.4,60.3,ECE,59.94,"LU, UK",NaN
+2012,DD,81.9,80 (Diploma),ECE,67.1,"LU, UK",NaN
+2012,DD,94.08,81.5,ECE,62.375,"LU, UK",NaN
+2012,DD,52.64,59.8,ECE,54.8,"LU, UK",NaN
+2012,DD,64.8,66.7,ECE,58.95,"LU, UK",NaN
+2012,DD,86.24,71,ECE,55.6,"LU, UK",NaN
+2012,DD,80.5,78.6,ECE,NaN,"LU, UK",NaN
+2012,ES,83.33,92.4,ECE,79.01,"Emulex (June 17, 2013)",NaN
+2012,ES,79.9,86.4,ECE,63.1,"Intel, Bangalore",NaN
+2012,ES,80.16,60.3,Medical ECE,62.83,"Intel, Bangalore",NaN
+2012,ES,87.84,72,ECE,67.91,"Appiness interactive Pvt. Ltd, Bangalore",NaN
+2012,ES,75.4,66.4,ECE,67.88,"ISEoft, Mangalore",NaN
+2012,ES,91.68,76.16,ECE,71.34,APCOGS,NaN
+2012,ES,78.34,84.16,ECE,71.1,"Vigyan Labs (June 17, 2013)",NaN
+2012,ES,88.64,73.33,ECE,57.21,APCOGS,NaN
+2012,ES,80.4,77.5,ETC,68.6,Infineon,NaN
+2012,ES,63.2,74.5,ECE,68.81,NXP Semiconductors,NaN
+2012,ES,83.8,84.66,ISE,8.56,"Philips Innovation, Bangalore",NaN
+2012,ES,83.52,65.6,ECE,68.79,"APCOGS (Not Joining) / DRDO, Bangalore",NaN
+2012,ES,79.5,58.6,CSE,69.8,Citrix,NaN
+2012,ES,70,58.16,ECE,60.09,"ISEoft, Mangalore",NaN
+2012,ES,84.26,78.88 (DIPLOMA),ETC,67.33,GE Healthcare,NaN
+2012,ES,78.86,69.84,ECE,62.32,"Symphony Teleca (July 10, 2013)",NaN
+2012,ES,86.4,73,ECE,8.61,"Intel, Bangalore",NaN
+2012,ES,68.16,64.5,CSE,57.67,APCOGS,NaN
+2012,ES,78.86,73,ECE,61.35,"Symphony Teleca (July 10, 2013)",NaN
+2012,ES,89.12,81,EEE,67.73,"Microchip, Bangalore",NaN
+2012,ES,67.2,78.2,ECE,60.58,NXP Semiconductors,NaN
+2012,ES,46.72,75.9 (DIPLOMA),ECE,61.24,"ISEoft, Mangalore",NaN
+2012,ES,70.33,85.4,ECE,60.43,APCOGS,NaN
+2012,ES,80,52,ETC,56.12,"Anr Electronixs, Bangalore",NaN
+2012,ES,89.92,81.33,EEE,67.72,Infineon,NaN
+2012,ES,80.1,76.4,CSE,65.47,Citrix,NaN
+2012,ES,85.96,57.16,CSE,75.8,"Mount Abu (July 1, 2013)",NaN
+2012,ES,72,62,ISE,72,"ISEoft, Mangalore",NaN
+2012,ES,63.71,52.4,ISE,64.9,"ISEoft, Mangalore",NaN
+2012,ES,72.64,68.33,ECE,60,NaN,NaN
+2012,ES,86,64,CSE,56,"ST MicroECE, Noida (June 14, 2013)",NaN
+2012,ES,84,94.2,ECE,82.83,"ST MicroECE, Noida (June 14, 2013)",NaN
+2012,ES,81.44,54.33,ECE,60.75,"TATA POWER SED, BANAGLORE",NaN
+2012,ES,89.33,86,ECE,80,"ST MicroECE, Noida (June 14, 2013)",NaN
+2012,ES,85.92,83.33,ECE,77.89,"Tenet, Bangalore",NaN
+2012,ES,88,73.8,CSE,65,"Traana Technologies, Bangalore",NaN
+2012,ES,68.5,68.4,ECE,59.4,"TechMahindra, Bangalore",NaN
+2012,ES,76.93,77.28 (DIPLOMA),ECE,70.32,GE Healthcare,NaN
+2012,ES,64,72.4,ECE,70.06,"METI, Mysore (July 1, 2013)",NaN
+2012,ES,85,80,ECE,63.77,"ISEoft, Mangalore",NaN
+2012,ES,83.68,67.5,EEE,68.62,"SM Silicon, Hyd",NaN
+2012,ES,78.72,72.54,ECE,61.37,"Tenet, Bangalore",NaN
+2012,ES,83.57,77.8,IT,7.21,"IBM (July 15, 2013)",NaN
+2012,ES,78,74,ISE,65,"Raylogix, Bangalore",NaN
+2012,ES,62.5,71.9,CSE,57.64,"METI, Mysore (July 1, 2013)",NaN
+2012,ES,90.08,74.67,IT,68.27,APCOGS,NaN
+2012,ES,67.36,52.16,CSE,62,APCOGS,NaN
+2012,ES,65.12,69.8 (Diploma),ECE,65.6,"Serge Technology, Bangalore",NaN
+2012,ES,76,58,ISE,67,KPIT,NaN
+2012,ES,77.2,70,ECE,62.68,"Silvan Innovation Labs Pvt Limited, Bangalore",NaN
+2012,ES,75.5,72.7,ECE,62.41,"REIEgn Technology, Bangalore",NaN
+2012,ES,77,52.4,CSE,62.9,Lantiq,NaN
+2012,ES,89.16,84.3,ECE,8.71,"EasyArm, Bangalore",NaN
+2012,ES,60.5,65,CSE,62,NaN,NaN
+2012,ES,58.08,56,ISE,6.89,"ISEoft, Mangalore",NaN
+2012,ES,90,67.2,ISE,60,"Tonse, Manipal",NaN
+2012,ES,85.12,55.66,ISE,60,NaN,NaN
+2012,ES,84.8,79.83,ECE,56.56,Off Campus,NaN
+2012,ES,75.4,86.7,CSE,78.13,Infineon,NaN
+2012,ES,60,64.6,CSE,6.9,"ST MicroECE, Noida (June 14, 2013)",NaN
+2012,ES,78,71,ECE,7.4,NaN,NaN
+2012,ES,91,66.83,EEE,71,"Ericsson (July 15, 2013)",NaN
+2012,ES,88.88,93.5,ECE,75.61,"Intel, Bangalore",NaN
+2012,ES,86.6,89.5,ECE,68.41,"Dataway, Bangalore",NaN
+2012,ES,63.66,52,EEE,52,"SLN Technology, Bangalore",NaN
+2012,ES,58.6,51,ECE,8.21,"Philips Innovation, Bangalore",NaN
+2012,ES,76.5,79.5,ECE,60.63,"APCOGS (June 10, 2013)",NaN
+2012,ES,84.53,74.3 (DIPLOMA),Mechatronics,7.02,"AGV Systems, Mumbai",NaN
+2012,ES,52,65,ECE,5.5,NaN,NaN
+2012,ES,70.71,64.83,ECE,58.11,"Mount Abu (July 1, 2013)",NaN
+2012,ES,62,64,ECE,56,"Axxonet/ cegonsoft, Bangalore",NaN
+2012,ES,72.6,62.16,ECE,59,"BrISEa (July 1, 2013)",NaN
+2012,ES,75.2,56.6,EEE,61.6,"Altair, Bangalore",NaN
+2012,ES,80.2,70.6,ECE,7.55,BoP,NaN
+2012,ES,61,55.2,ECE,70,"ISEoft, Mangalore",NaN
+2012,ES,68.6,51,ECE,57,NaN,NaN
+2012,ES,74.88,62,ECE,53.72,"Philips Innovation, Bangalore",NaN
+2012,ES,71.4,67.3,Medical ECE,71.3,"ITIE, Bangalore",NaN
+2012,ES,77.92,66.66,ECE,57.91,NaN,NaN
+2012,ES,61.12,63.67,ECE,57.91,"MDN, Manipal",NaN
+2012,ES,88.96,74.16,ECE,68.5,"ST MicroECE, Noida (June 14, 2013)",NaN
+2012,ES,82.83,91,ETC,68.41,"Emulex (June 17, 2013)",NaN
+2012,ES,82,72,ECE,8.17,"BrISEa (July 1, 2013)",NaN
+2012,ES,85,74,ECE,53.6,APCOGS,NaN
+2012,ES,64.48,51.3,TCE,52.4,NaN,NaN
+2012,ES,76,77.4,ECE,57.9,"Tech Mahindra, Hyd",NaN
+2012,ES,74,49,CSE,57,"BoavISEta business solutions, Bangalore",NaN
+2012,ES,71.84,69.33,TCE,68.7,NaN,NaN
+2012,ES,71.3,78.09 (DIPLOMA),ECE,61.25,"GE, Bangalore",NaN
+2012,ES,82.24,74.47 (DIPLOMA),ECE,60.8,KPIT,NaN
+2012,ES,78.4,84.3,ECE,71.65,APCOGS,NaN
+2012,ES,82.8,53.33,ECE,64.05,"Angel Attack systems, Bangalore",NaN
+2012,ES,69,63,ETC,65.8,Course DISEcountined,NaN
+2012,ES,73.76,59.66,CSE,60.66,"SirISE IT ServISE, Bangalore",NaN
+2012,ES,75.52,77.5,CSE,67.82,"Muthunga Technolies, Bangalore",NaN
+2012,ES,89.9,77,ECE,76,"IISEc, Bangalore",NaN
+2012,EWT,81.8,78,ETC,58.69,APCOGS,NaN
+2012,EWT,77.6,61.1,ECE,54,"ISEoft, Mangalore",NaN
+2012,EWT,61.2,69,ECE,56,enterpeneural,NaN
+2012,EWT,89.66,76.83,ECE,60.54,"APCOGS (June 10, 2013)",NaN
+2012,EWT,67.2,61,ECE,61.56,"Matri Tech, Hyd offered and denied",NaN
+2012,EWT,49.8,63.3,ECE,56.33,APCOGS,NaN
+2012,ITM,90.08,89.33,ISE,82.04,"Oracle (June 1, 2013 to May 31, 2014)",NaN
+2012,ITM,80.8,56.33,ISE,60.29,"Slutura Solutions, Bangalore",NaN
+2012,ITM,84,59,ISE,54,"Joshi, SOISE",NaN
+2012,ITM,89.44,58,CSE,62.27,"Matri Tech, Hyd offered and denied",NaN
+2012,MS,92.64,90.33,Medical ECE,9.27,"Philips Innovation, Bangalore",NaN
+2012,MS,72.16,48.83,ECE,51.45,NaN,NaN
+2012,MS,74.72,81.66,BME,77.74,"Volmo, ",NaN
+2012,MS,58,66.33,Medical ECE,8.43,"Philips Innovation, Bangalore",NaN
+2012,MS,83.36,73.66,BME,67.26,"Philips Innovation, Bangalore",NaN
+2012,MS,83.68,61.83,CSE,56.3,"Philips Innovation, Bangalore (July 1, 2013)",NaN
+2012,MS,69.7,64.8,Medical ECE,58.45,"Philips Innovation, Bangalore",NaN
+2012,MS,88.43,67.23,ECE,63.64,SAP Labs,NaN
+2012,MS,50.1,60,BME,60,NaN,NaN
+2012,MS,89.28,79.4,CSE,64.48,"HANDSREL (June 17, 2013)",NaN
+2012,MS,78.2,68.2,BME,65.2,"Philips Innovation, Bangalore",NaN
+2012,MS,72,51.16,ISE,60.06,"Philips Innovation, Bangalore",NaN
+2012,MS,79.6,80.5,BME,79.5,"Philips Innovation, Bangalore",NaN
+2012,MS,76.32,67.01,ECE,58.2,"ISEoft, Mangalore",NaN
+2012,MS,80.64,61,CSE,62.02,"Philips Innovation, Bangalore",NaN
+2012,MS,81.8,87.4,BME,69.8,"Intel, Bangalore",NaN
+2012,MS,81.76,63.33,ECE,58.26,KPIT,NaN
+2012,MS,64,(DIP) 62,ECE,60,"ISEoft, Mangalore",NaN
+2012,MS,84,75.2,Medical ECE,70.13,University of Pennsylvania,NaN
+2012,MS,68,70,Medical ECE,8.03,"Religare Heathfore Tech, Bangalore",NaN
+2012,MS,89,85,ISE,71.08,"HANDSREL (June 17, 2013)",NaN
+2012,MS,75,58,CSE,7.4,"Philips Innovation, Bangalore",NaN
+2012,VIR,60,50,(B.Sc/MCA),NaN,"ISEoft, Mangalore",NaN
+2012,VIR,72.16,69.83,ISE,58.81,"Volmo, June 24, 2013",NaN
+2012,VIR,78,72,CSE,7.71,"Ericsson (July 15, 2013)",NaN
+2012,VIR,86.33,84.6,IT,72.43,Bosch,NaN
+2012,VIR,70,64,CSE,57.25,"Altair, Bangalore",NaN
+2012,VIR,70.33,78.5,CSE,61.03,"ISEoft, Mangalore",NaN
+2012,VIR,88.29,59.6,ISE,59.25,"Glopore IMS, Bangalore (June 24, 2013) ",NaN
+2012,VLSI,82.5,92,ECE,81.17,"ST MicroECE (Noida, June 14, 2013)",NaN
+2012,VLSI,78.33,75.6,ECE,7.32,Freescale,NaN
+2012,VLSI,85,88,ECE,70.6,"IIT, Bombay",NaN
+2012,VLSI,78.1,87.7,ECE,73.2,NXP Semiconductors,NaN
+2012,VLSI,81.17,74.8,ETC,57.9,LSI Tech,NaN
+2012,VLSI,81.76,83.83,EEE,8.58,"ST MicroECE, (Hyd June 14, 2013)",NaN
+2012,VLSI,82.5,93.7,ECE,76.62,Tech Vulcan,NaN
+2012,VLSI,89.9,96.7,ECE,73.87,"LSI Tech (July 17, 2013)",NaN
+2012,VLSI,72.5,84,ECE,66.33,"Cognitive Design Technology, Bangalore",NaN
+2012,VLSI,86.53,66.33,ETC,58,"Tejas Networks, Bangalore",NaN
+2012,VLSI,78.93,60.22,ECE,7.41,"SPEL Semiconductor, Chennai",NaN
+2012,VLSI,83,85,ECE,67.27,"SPEL Semiconductor, Chennai",NaN
+2012,VLSI,87.2,83.16,INST,77.57,"Synopsys (June 17, 2013)",NaN
+2012,VLSI,85.76,78.33,ECE,8.46,"Synopsys (June 17, 2013)",NaN
+2012,VLSI,79.8,77.8,ECE,75.1,Freescale,NaN
+2012,VLSI,78.8,93.2,ECE,55.27,"SPEL Semiconductor, Chennai",NaN
+2012,VLSI,85,89.4,ECE,6.54,"Squid Design System, Hyd",NaN
+2012,VLSI,84.2,78.2,ECE,75.32,"Microchip, Bangalore",NaN
+2012,VLSI,74.56,71.83,ECE,76.2,"LSI Tech (July 17, 2013)",NaN
+2012,VLSI,82.83,90.9,ECE,75.44,"DLRL, AndraPradesh",NaN
+2012,VLSI,75.66,84.8,ECE,71.5,"CVC, Bangalore",NaN
+2012,VLSI,88.8,84.8,ECE,8.61,Tech Vulcan (ST MicroECE),NaN
+2012,VLSI,81.76,79.33,ECE,72.83,"BEL, Bangalore",NaN
+2012,VLSI,76,65.83,NaN,69.41,"MDN, Manipal",NaN
+2012,VLSI,85.28,72,ECE,69.05,"BEL, Bangalore",NaN
+2012,VLSI,52.16,61.82 (Diploma),ECE,59.52,"Karmic, Belgaum",NaN
+2012,VLSI,90.24,81.5,ECE,57.16,NaN,NaN
+2012,VLSI,89.92,69.66,EEE,64.35,"Microchip, Bangalore",NaN
+2012,VLSI,69.8,79.5,ECE,60.58,"HAL, Hyd",NaN
+2012,VLSI,82.4,68.83,IT,8.32,NaN,NaN
+2012,VLSI,80.33,73.19,ECE,71.3,"SPEL Semiconductor, Chennai",NaN
+2012,VLSI,59.84,66.64 (Diploma),EEE,6.86,"ISEoft, Mangalore",NaN
+2012,VLSI,91.52,83,ECE,77.86,"Ericsson (July 15, 2013)",NaN
+2012,VLSI,85.12,83,ECE,66,"BEL, Bangalore",NaN
+2012,VLSI,92,88.33,ECE,64.55,"NAL, Bangalore",NaN
+2012,VLSI,87.3,92.4,ECE,67.48,"SPEL Semiconductor, Chennai",NaN
+2012,VLSI,73.44,62.66,ECE,69.22,"Tenet, Bangalore",NaN
+2012,VLSI,68.33,61.33,TCE,68.38,"SmartPlay, Bangalore",NaN
+2012,VLSI,83.6,92.2,ECE,63.35,"SPEL Semiconductor, Chennai",NaN
+2012,VLSI,86.08,67.33,ECE,59.58,"Sicon, Bangalore",NaN
+2012,VLSI,72,71.2,ECE,58.31,NaN,NaN
+2012,VLSI,82.4,77.8 (Diploma),ECE,67.77,"BEL, Bangalore",NaN
+2012,VLSI,64.1,67.1,ECE,60.71,"IIT, Kanpur",NaN
+2012,VLSI,88.8,84.33,ECE,69.02,"Synopsys (June 17, 2013)",NaN
+2012,VLSI,94.88,80.83,ECE,72.1,"LSI Tech (July 17, 2013)",NaN
+2012,VLSI,82.4,79.83,ETC,68.12,"NAL, Bangalore",NaN
+2012,VLSI,74,62.6,ECE,57.04,LSI Tech,NaN
+2012,VLSI,52,65,ECE,68.5,"MDN, Manipal",NaN
+2012,VLSI,74.56,68.33,ECE,70.25,NXP Semiconductors,NaN
+2012,VLSI,81,61,ECE,60,NaN,NaN
+2012,VLSI,85.28,74.5,EEE,74.97,"Xilinx (June 24, 2013)",NaN
+2012,VLSI,62.08,62.4 (Diploma),ECE,62.4,"BEL, Bangalore",NaN
+2012,VLSI,71,67,ECE,61.06,NaN,NaN
+2012,VLSI,71.16,86.4,EEE,61.34,BCS Inovation Bangalore,NaN
+2012,VLSI,69.56,65,ECE,57.57,NaN,NaN
+2012,VLSI,72,90,ECE,69.72,NaN,NaN
+2012,VLSI,80,87.4,ECE,73.8,"SPEL Semiconductor, Chennai",NaN
+2012,VLSI,80,55,ECE,65.35,"ISEoft, Mangalore",NaN
+2012,VLSI,90.4,64.6,ECE,70.79,"TATA POWER SED, BANAGLORE",NaN
+2012,VLSI,84,58,ECE,67.56,NaN,NaN
+2012,VSDV,85,87.36 (DIPLOMA),ECE,8.2,Whizchip,NaN
+2012,VSDV,89.12,81.16,ECE,76.85,Whizchip,NaN
+2012,VSDV,93.76,89.17,TCE,75.52,Whizchip,NaN
+2012,VSDV,88.96,85.33,ECE,74.3,Whizchip,NaN
+2012,VSDV,90.83,93.7,ECE,74.8,Whizchip,NaN
+2013,DD,72,84,ECE,70.28,NaN,NaN
+2013,DD,NaN,NaN,NaN,NaN,"ESIGELEC, France",NaN
+2013,DD,NaN,NaN,NaN,NaN,"ESIGELEC, France",NaN
+2013,DD,NaN,NaN,NaN,NaN,"ESIGELEC, France",NaN
+2013,DD,NaN,NaN,NaN,NaN,"ESIGELEC, France",NaN
+2013,DD,NaN,NaN,NaN,NaN,"ESIGELEC, France",NaN
+2013,DD,NaN,NaN,NaN,NaN,"ESIGELEC, France",NaN
+2013,DD,NaN,NaN,NaN,NaN,"ESIGELEC, France",NaN
+2013,DD,NaN,NaN,NaN,NaN,"ESIGELEC, France",NaN
+2013,DD,NaN,NaN,NaN,NaN,"ESIGELEC, France",NaN
+2013,DD,NaN,NaN,NaN,NaN,"ESIGELEC, France",NaN
+2013,DD,NaN,NaN,NaN,NaN,"ESIGELEC, France",NaN
+2013,DD,NaN,NaN,NaN,NaN,"ESIGELEC, France",NaN
+2013,DD,NaN,NaN,NaN,NaN,"ESIGELEC, France",NaN
+2013,DD,82.4,69.5,ECE,60.35,NaN,NaN
+2013,ES,80,90,ECE,81,"LSI, Bangalore",NaN
+2013,ES,90,85,ECE,72,"NXP, Bangalore",NaN
+2013,ES,86.4,63.8,EEE,62,"LSI, Bangalore",NaN
+2013,ES,NaN,NaN,NaN,NaN,"MDN, Manipal",NaN
+2013,ES,77.96,62.26 (Diploma),EEE,7.05,"Tonse, Manipal",NaN
+2013,ES,68.16,70.45 (Diploma),ECE,63.4,"BlackBuck, Hyd ",NaN
+2013,ES,73.76,81.10 (Diploma),ECE,56.32,"Tonse, Manipal",NaN
+2013,ES,83.36,55.66,EEE,63.28,Optimus Logic private limited,NaN
+2013,ES,85.44,54,ECE,57,"HoneyWell, MSRIT Research Group",NaN
+2013,ES,NaN,NaN,NaN,NaN,"MDN, Manipal",NaN
+2013,ES,72.96,54.5,CSE,6.85,"Tonse, Manipal",NaN
+2013,ES,83,85,CSE,80,"Ensilica, Bangalore",NaN
+2013,ES,69.9,49.11,TCE,57.41,"ACS, Bangalore",NaN
+2013,ES,68.16,63.33,CSE,60.11,"Tonse, Manipal",NaN
+2013,ES,54.08,67 (Diploma),ECE,60.3,"Tenet, Bangalore",NaN
+2013,ES,85.4,92.7,EEE,62.49,"NXP, Bangalore",NaN
+2013,ES,88.09,86.75,TCE,66.73,"Tonse, Manipal",NaN
+2013,ES,78,76.3,CSE,60,"Philips Innovation, Bangalore Bop, Manipal",NaN
+2013,ES,75.36,62.33,ECE,8.16,NaN,NaN
+2013,ES,78.5,78.2,BCA,68.7,NaN,NaN
+2013,ES,70.88,47.16,BCA,63.56,"Pragati Automation, Bangalore",NaN
+2013,ES,67.68,63.33,BCA,66.46,"Adrit Techosolutions, Bangalore",NaN
+2013,ES,88,55.66,BCA,71.53,"NXP, Bangalore",NaN
+2013,ES,43.68,65.1,BCA,60.54,"BrISEa, Bangalore",NaN
+2013,ES,80.67,89.7,ECE,80.46,"Intel, Bangalore",NaN
+2013,ES,92.16,88.16,ECE,72.38,"Intel, Bangalore",NaN
+2013,ES,73,58.16,CSE,60.14,"eMath Tech, Bangalore",NaN
+2013,ES,86.56,73.5,ECE,62.51,"Philips Innovation, Bangalore",NaN
+2013,ES,83.83,87.6,ECE,67.55,"TechnoelexISE, Hyd",NaN
+2013,ES,92.17,95,EEE,8.82,"Microchip, Bangalore",NaN
+2013,ES,90.2,92.2,EEE,80.98,"Ricoh, Bangalore",NaN
+2013,ES,88.48,87.33,ECE,79.85,"Broadcom, Bangalore",NaN
+2013,ES,37.92,55,CSE,70.57,NaN,NaN
+2013,ES,85.92,65.33,CSE,69.448,"Philips Innovation, Bangalore",NaN
+2013,ES,94.88,83.83,EEE,71.91,Infineon,NaN
+2013,ES,78.6,62.5,EEE,60.01,"PE System Ltd, Bangalore",NaN
+2013,ES,76,52,ECE,60.7,"Bosch, Bangalore",NaN
+2013,ES,78.15,84,IT,62.91,"Intel, Bangalore",NaN
+2013,ES,79.6,72,ECE,56.6,"Microchip, Bangalore",NaN
+2013,ES,78.44,80.33,CSE,69.65,"Lantiq, Bangalore",NaN
+2013,ES,92.96,90.83,ECE,80.2,"Broadcom, Bangalore",NaN
+2013,ES,72.4,62.8,ECE,54.72,"Tata Autocomp, pune",NaN
+2013,ES,93.76,91.5,ECE,79.63,Infineon,NaN
+2013,ES,83.68,49.33,CSE,58.92,"Tonse, Manipal",NaN
+2013,ES,51.6,88.4,ECE,72.89,"Philips Innovation, Bangalore",NaN
+2013,ES,61.44,75.33,TCE,73.22,"Philips Innovation, Bangalore",NaN
+2013,ES,76,64.5,ECE,69,"ISEoft, Mangalore",NaN
+2013,ES,68.25,53,CSE,59,"Brevera, Mangalore",NaN
+2013,ES,87.2,87.3,ECE,8.22,"Philips Innovation, Bangalore",NaN
+2013,ES,80.32,73,ECE ,73,"ISEoft, Mangalore",NaN
+2013,ES,95,85,CSE,7.1,"Philips Innovation, Bangalore",NaN
+2013,ES,76.5,74,ECE,69.48,"ACS, Manipal",NaN
+2013,ES,55.2,52.16,ECE,61.6,"Three Media Tech, Pune",NaN
+2013,ES,90.88,73.83,ECE,71.2,"Adrit Techosolutions, Bangalore",NaN
+2013,ES,89.28,68.8,CSE,71.32,"Philips Innovation, Bangalore",NaN
+2013,ES,85.92,68.3,ECE,67.9,"ERDE, Bangalore",NaN
+2013,ES,73.92,45.83,ISE,55.22,"Odigma, Bangalore",NaN
+2013,ES,93.6,87.5,EEE,70.8,"Siemens, Bangalore",NaN
+2013,ES,89.6,77.16,TCE,70.27,"Broadcom, Bangalore",NaN
+2013,ES,88.8,64.33,EEE,71.95,"Aryaka, Bangalore",NaN
+2013,ES,76.96,61.83,CSE,62.94,"Tonse, Manipal",NaN
+2013,ES,87.2,79.16,ECE,73.53,"BrISEa, Bangalore",NaN
+2013,ES,76.32,78.5,TCE,8.07,"ISEoft, Mangalore",NaN
+2013,ES,76.57,73.2,INST,59,"Philips Innovation, Bangalore-BoP, Manipal",NaN
+2013,ES,68.64,65.67,EEE,62.8,"Tenet, Bangalore",NaN
+2013,ES,77.44,62,ECE,55.83,"BEL, Bangalore",NaN
+2013,ES,88.8,81,ECE,73.51,"BrISEa, Bangalore",NaN
+2013,ES,84.48,59.16,ISE,66.81,"Tonse, Manipal",NaN
+2013,ES,90.56,84.66,ECE,70.66,"Intel, Bangalore",NaN
+2013,ES,83.52,71.16,ECE,56.72,"NeuroSynaptic, Bangalore",NaN
+2013,ES,83.04,84.16,ECE,70.01,"ST, Noida",NaN
+2013,ES,69.44,82.7,ECE,9.27,NaN,NaN
+2013,ES,93.12,65,ECE,72.29,"ISERO, Bangalore",NaN
+2013,ES,77.92,63.66,ECE,5.8,"CITL, Bangalore",NaN
+2013,ES,90.08,77.83,ECE,69.69,"Philips Innovation, Bangalore",NaN
+2013,ES,54.6,63.5,CSE,58.09,"Tonse, Manipal",NaN
+2013,ES,83.84,82.5,ECE,62.77,"Sloki Software, Bangalore",NaN
+2013,ES,89.28,60.5,ISE,60.98,"Native5, Bangalore",NaN
+2013,ES,89.6,78.66,ECE,73,"GE, Bangalore",NaN
+2013,ES,71.4,58.8,ECE,57.82,"BrISEa, Bangalore",NaN
+2013,ES,88.48,0.51,ISE,8.12,"Wipro, Bangalore",NaN
+2013,ES,91.36,71.33,ECE,58.02,"ISERO, Bangalore",NaN
+2013,ES,79.52,52,ECE,62.14,"ST Micro, Noida",NaN
+2013,ES,90,84.6,EEE,8.91,"Consilient-Tech, Bangalore",NaN
+2013,ES,95.52,89,ECE,73.87,"Intel, Bangalore",NaN
+2013,ES,75,74,ECE,63.71,"Amaron Power systems, Bangalore",NaN
+2013,ES,90.88,78.16,ECE,71.07,"ST, Noida",NaN
+2013,ES,59.67,67.5,TCE,59.7,"BrISEa, Bangalore",NaN
+2013,ES,93.12,80,IT,5.3,"EMC, Bangalore",NaN
+2013,ES,84.32,59.84,ECE,53,"Pace WISEdom, Bangalore",NaN
+2013,ES,92.64,82.33,CSE,8.64,"Microchip, Bangalore",NaN
+2013,ES,80.4,82.3,IT,7.44,"Intel, Bangalore",NaN
+2013,ES,84.8,82.16,ECE,70.43,"IBM, Bangalore",NaN
+2013,ES,71.36,51.5,ECE,60.69,"ISEoft, Mangalore",NaN
+2013,ES,79,49,ISE,57,"Matrix PublISEhing, Bangalore",NaN
+2013,ES,76.16,46.66,TCE,8.38,"Inbetween Software, Goa",NaN
+2013,ES,86,57.6,CSE,59.01,"Opex Labs, Bangalore",NaN
+2013,ES,69.44,59.16,EEE,63.39,"Genpact, Bangalore",NaN
+2013,ES,78.31,59.6,CSE,58.2,"ISEoft, Mangalore",NaN
+2013,ES,69.33,71.83,ECE,57,"ISEoft, Mangalore",NaN
+2013,ES,78,70.67,ECE,68.57,"TechnoelexISE, Hyd",NaN
+2013,ES,82.24,54,CSE,55.29,"Ezzoft, Bangalore",NaN
+2013,ES,79.04,59.67,EEE,61.53,"Kamath Transformers, Bangalore",NaN
+2013,ES,65.83,74.4,ECE,59.58,Pantech,NaN
+2013,ES,92.8,70.33,ISE,66.12,"Aptean, Bangalore",NaN
+2013,ES,76,53.33,EEE,57.17,"PE System Ltd, Bangalore",NaN
+2013,ES,71.84,60.22,ECE,58.11,"Three Media Tech, Pune",NaN
+2013,ES,75.1,82.8,EEE,61.92,"Intel, Bangalore",NaN
+2013,EWT,81.28,71.29,ECE,64.75,NaN,NaN
+2013,EWT,83.68,63.33,CSE,59.22,"Tonse, Manipal",NaN
+2013,EWT,92.8,72.6,ECE,75.45,"ACS, Manipal",NaN
+2013,EWT,77.46,62.33,ECE,56.03,NaN,NaN
+2013,EWT,85,65,TCE,68.88,"IBM, Bangalore",NaN
+2013,EWT,69,65.4,ISE,61,"ACS, Manipal",NaN
+2013,EWT,57,60, CSE,60.17,"ACS, Manipal",NaN
+2013,EWT,91.52,74.16,CSE,65.77,"ACS, Manipal",NaN
+2013,EWT,91.68,76.5,CSE,69.18,Immortal Engg Slutions,NaN
+2013,EWT,78.72,53,ECE,62.69,"ACS, Manipal",NaN
+2013,EWT,57.2,NaN,CSE,56.08,"volmo, Bangalore",NaN
+2013,EWT,78.88,82.88,ECE,76.92,"Philips Innovation, Bangalore",NaN
+2013,ITM,79.36,83.33,BCA,74.83,"EMC, Bangalore",NaN
+2013,ITM,65.76,68.75,ISE,60.83,"Tonse, Manipal",NaN
+2013,ITM,82.08,64.5,CSE,66.76,"EMC, Bangalore",NaN
+2013,MS,93.76,91.16,MEE,9.52,"Philips Innovation, Bangalore",NaN
+2013,MS,91.52,66.33,MEE,8.83,"Philips Innovation, Bangalore",NaN
+2013,MS,85.6,78.6,BME,73.04,"MIRS, Manipal",NaN
+2013,MS,83.2,77.16,CSE,68.12,"Native5, Bangalore",NaN
+2013,MS,64.93,85.33,BME,63.87,"NeuroSynaptic, Bangalore",NaN
+2013,MS,76.64,59.83,CSE,51.1,K2 Tech,NaN
+2013,MS,66.2,60,CSE,62,"Atlas Systems, Bangalore",NaN
+2013,MS,77.12,66,CSE,68.11,"SAP, Bangalore",NaN
+2013,MS,77,69,CSE,70,"Sysuniverse, Chennai",NaN
+2013,MS,71,88,IT,82,"Philips Innovation, Bangalore",NaN
+2013,MS,90.56,87.67,CSE,66.29,"MIRS, Manipal",NaN
+2013,MS,72.3,78.9,CSE,63.23,"ISEoft, Mangalore",NaN
+2013,VLSI,84,85.2,ECE,4.66,"ST, Noida",NaN
+2013,VLSI,89.6,68.66,ECE,61.17,"AadISEmicon, Bangalore",NaN
+2013,VLSI,91.16,95.6,ECE,77.3,"ST, Noida",NaN
+2013,VLSI,68,69,ECE,64,NaN,NaN
+2013,VLSI,89.6,86.2,ECE,69.4,"BlackBuck, Hyd",NaN
+2013,VLSI,43.5,49.4,ECE,53.45,"AcEIEce, Bangalore",NaN
+2013,VLSI,71.1,84.1,ECE,58.9,"CDAC, Hyd",NaN
+2013,VLSI,89.76,61.6,ECE,65.82,"PLX Tech, Bangalore",NaN
+2013,VLSI,88,75,ECE,76,"EMC, Bangalore",NaN
+2013,VLSI,77.8,85.67,ECE,72,"ST, Noida",NaN
+2013,VLSI,NaN,NaN,NaN,NaN,"MDN, Manipal",NaN
+2013,VLSI,88,92.8,EIE,73.01,"Reliable Technosystems, Hyd",NaN
+2013,VLSI,85.25,61,EEE,71.12,"BEL, Bangalore",NaN
+2013,VLSI,89.6,89,EEE,9.1,Infineon,NaN
+2013,VLSI,89.8,83.6,ECE,8.75,Infineon,NaN
+2013,VLSI,91.84,87,ECE,72.98,"Microchip, Bangalore",NaN
+2013,VLSI,92.32,90.66,ECE,77.75,"Intel, Bangalore",NaN
+2013,VLSI,ITM,72.2,ECE,59.93,"Nest, Trivandrum",NaN
+2013,VLSI,ITM,56,ECE,62.33,"Smart Play, Bangalore",NaN
+2013,VLSI,ITM,83.2,ECE,61.1,Grid India,NaN
+2013,VLSI,90.56,82,ECE,67.2,"Barc, Mumbai",NaN
+2013,VLSI,91.84,90.33,ECE,8.97,"Microchip, Bangalore",NaN
+2013,VLSI,83.8,75.5,ECE,62.6,"MDN, Manipal",NaN
+2013,VLSI,86.88,84,ECE,8.84,"ST Micro, Noida",NaN
+2013,VLSI,91.52,91.16,ECE,80.23,"Emulex, Bangalore",NaN
+2013,VLSI,64,86.7,EEE,69,Global Tech. Bangalore,NaN
+2013,VLSI,84.8,55.8,ECE,62.38,"MDN, Manipal",NaN
+2013,VLSI,69.44,60.66,EEE,68.75,NaN,NaN
+2013,VLSI,58.2,56.33,ECE,52.5,"Barc, Mumbai",NaN
+2013,VLSI,84.44,65.5,ECE,8.29,"BEL, Bangalore",NaN
+2013,VLSI,77.12,56.33,TCE,7.54,"BEL, Bangalore",NaN
+2013,VLSI,73.4,76.66,ECE,7.73,"MDN, Manipal",NaN
+2013,VLSI,63.2,59.16,ECE,8.18,"BEL, Bangalore",NaN
+2013,VLSI,73.5,83.9,ECE,70,NaN,NaN
+2013,VLSI,70,60.55,ECE,66,"BEL, Bangalore",NaN
+2013,VLSI,58.5,82.6,ECE,68.7,"Moxie, Noida",NaN
+2013,VLSI,79.6,72.4,ECE,66.3,NaN,NaN
+2013,VLSI,90.4,67,ECE,69.22,"BEL, Bangalore",NaN
+2013,VLSI,93.76,85.6,EEE,8.83,"Intel, Bangalore",NaN
+2013,VLSI,93.3,91.9,ECE,74.17,"Microchip, Bangalore",NaN
+2013,VLSI,72,55,ECE,55,"BEL, Bangalore",NaN
+2013,VLSI,85.4,67,ECE,60.33,"CVC, Bangalore",NaN
+2013,VSDV,NaN,NaN,NaN,NaN,"Whizchip, Bangalore",NaN
+2013,VSDV,NaN,NaN,NaN,NaN,"Whizchip, Bangalore",NaN
+2013,VSDV,NaN,NaN,NaN,NaN,"Whizchip, Bangalore",NaN
+2013,VSDV,NaN,NaN,NaN,NaN,"Whizchip, Bangalore",NaN
+2013,VSDV,NaN,NaN,NaN,NaN,"Whizchip, Bangalore",NaN
+2013,VSDV,NaN,NaN,NaN,NaN,"Whizchip, Bangalore",NaN
+2014,ES,66,65.5,ECE,65.42,"ADA(HAL), Bangalore",NaN
+2014,ES,87.68,87.16,ECE,79.76,"Marvel, Pune",20000
+2014,ES,80.96,61.66,ECE,57.96,"Marvel, Pune",20000
+2014,ES,74,78.8,CSE,56.26,"Marvel, Pune",20000
+2014,ES,79.8,72.8,CSE,67.68,"Marvel, Pune",20000
+2014,ES,72,65.6,CSE,71.2,"E-Meditek, Gurgaon",0
+2014,ES,69.44,82.72,ECE,8.98,"Bosch, Bangalore",20000
+2014,ES,88.64,78.83,ECE,78,"Bosch, Bangalore",20000
+2014,ES,74.08,65.33,EEE,65.55,"BoP(MIRS), Manipal",5000
+2014,ES,59,52,CSE,56.93,"BoP(MIRS), Manipal",5000
+2014,ES,75,89.9,ECE,6.72,"Blackbuck, Hyderabad",0
+2014,ES,72.3,83.5,ECE,68.01,"MDN, Manipal",0
+2014,ES,80,73.2,EEE,70.7,"Tenet, Bangalore",4000
+2014,ES,72.32,45,CSE,58,"Tenet, Bangalore",4000
+2014,ES,79.2,70.33,CSE,57.41,"BrISEa, Bangalore",5000
+2014,ES,68,63.5,ECE,61.27,"BrISEa, Bangalore",5000
+2014,ES,77.6,82.5,ECE,64.61,"Avin Systems, Bangalore",9000
+2014,ES,83.04,73.83,ECE,71.45,"Avin Systems, Bangalore",9000
+2014,ES,86,86.5,ECE,7994,"Avin Systems, Bangalore",9000
+2014,ES,84.32,79.67,IE,76.27,"Consilient-Tech, Bangalore",12000
+2014,ES,89.8,89.3,TCE,8.81,"Broadcom, Bangalore",20000
+2014,ES,84.86,72.26,ISE,70.96,"Broadcom, Bangalore",20000
+2014,ES,85.2,87.3,EEE,8.44,"Synopsys, Hyderabad",25000
+2014,ES,83,87,EEE,7.45,"Intel, Bangalore",28000
+2014,ES,89.2,89.8,EEE,75,"Intel, Bangalore",28000
+2014,ES,95.04,94.5,TCE,8.19,"Intel, Bangalore",28000
+2014,ES,92.8,88.83,TCE,81.22,"Intel, Bangalore",28000
+2014,ES,89.44,90.66,IE,9.14,"Intel, Bangalore",28000
+2014,ES,68,52,ECE,63.44,"Intel, Bangalore",28000
+2014,ES,92.16,87.66,ECE,79.39,"Intel, Bangalore",28000
+2014,ES,83.04,67.83,IE,7.26,"Neurosynaptic, Bangalore",4000
+2014,ES,88.16,76.84,IE,8.2,"Neurosynaptic, Bangalore",4000
+2014,ES,87.05,80,ECE,70.6,"Atonarp, Bangalore",15000
+2014,ES,84.6,82.2,ECE,71.57,"Atonarp, Bangalore",15000
+2014,ES,84.3,84.2,IE,70,"Atonarp, Bangalore",15000
+2014,ES,88.1,86.4,CSE,79.6,"Microchip, Bangalore",17000
+2014,ES,55.6,61.4,EIE,75.22,"Argus, Bangalore",5000
+2014,ES,65.44,82.83,ECE,68.89,"GEMN, Bangalore",7000
+2014,ES,81.6,73,CSE,59.83,"Neurosynaptic, Bangalore",4000
+2014,ES,74.4,75.37,TCE,63.86,"Neurosynaptic, Bangalore",4000
+2014,ES,76,80,ECE,72,"TCS, BANGALORE",15000
+2014,ES,93.6,86,ECE,77.06,"EMC, Bangalore",25000
+2014,ES,85.28,61,ISE,77,"Emulex, Bangalore",33333
+2014,ES,96.32,91.83,EEE,9.29,"Emulex, Bangalore",33333
+2014,ES,83,85,ECE,74.19,"Emulex, Bangalore",33333
+2014,ES,86.4,89.6,ECE,74.67,Infineon,20000
+2014,ES,90.08,82.33,CSE,69.86,Infineon,20000
+2014,ES,89.4,75.3,ECE,69.76,Infineon,20000
+2014,ES,89.28,82.16,TCE,77.88,Infineon,20000
+2014,ES,76.8,78.5,ECE,69.16,Infineon,20000
+2014,ES,88,64.5,ECE,60,"Happiest Minds, Bangalore",15000
+2014,ES,79.68,78.5,TCE,70.5,"Atonarp, Bangalore",15000
+2014,ES,76.8,66.5,CSE,54.5,"BrISEa, Bangalore",5000
+2014,ES,83.68,59.33,CSE,60.2,"BrISEa, Bangalore",5000
+2014,ES,85.6,80.83,CSE,76.53,"BrISEa, Bangalore",5000
+2014,ES,77.6,82.9,ECE,74.5,"Intel, Bangalore",28000
+2014,ES,81.4,81.6,ECE,6.598,"C-DAC, Hyd",0
+2014,ES,89.92,73.33,ECE,69.23,"ApCog, Manipal",0
+2014,ES,63.3,NaN,ECE,55.5,"ApCog, Bangalore",0
+2014,ES,84.48,75.83,ECE,6108,"HAL, Bangalore",0
+2014,ES,88.4,85,ECE,72.6,"ISERO, Bangalore",0
+2014,ES,76.48,63.83,ECE,66.62,"ISEoft, Mangalore",4000
+2014,ES,62.2,66.16,ECE,58.3,"ISEoft, Mangalore",4000
+2014,ES,81.57,46.66,ECE,7.2,"ISEoft, Mangalore",4000
+2014,ES,75.84,75.66,ECE,65.29,"ISEoft, Mangalore",4000
+2014,ES,73.6,54,CSE,62.39,"ISEoft, Mangalore",4000
+2014,ES,59.36,NaN,EEE,63,"ISEoft, Mangalore",4000
+2014,ES,67.68,72.33,CSE,6238,"BoP(MIRS), Manipal",5000
+2014,ES,71.84,71.33,ECE,63.02,"BoP(MIRS), Manipal",5000
+2014,ES,81.76,77.67,ECE,68.76,"BoP, Manipal",5000
+2014,ES,72.16,78,ECE,65.56,"BoP, Manipal",5000
+2014,ES,66.72,64.33,CSE,65.47,"GVK Bio, Hyderabad",15000
+2014,ES,84.16,76.16,ECE,68.51,"Ricoh, Bangalore",18000
+2014,ES,68.4,74.33,ECE,8.63,"ABB, Bangalore",20000
+2014,ES,82.76,78.17,ECE,55.03,"GE, Bangalore",20000
+2014,ES,74,67,ECE,65.72,Oracle,20000
+2014,ES,54.88,52.16,ISE,8.62,"Philips Innovation, Bangalore",20000
+2014,ES,65.86,56.83,IT,53.72,ENSAI,45000
+2014,ES,88.32,76.33,ECE,64.7,NaN,NaN
+2014,ES,77.16,82.5,ECE,67.09," ISEoft, Mangalore",NaN
+2014,ES,77.33,54.53,CSE,62.73,"Barcode- India, Gurgaon ",NaN
+2014,ES,79.52,57.16,ECE,66.28,NaN,NaN
+2014,ESI,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2014,EWT,79.2,58,EEE,56.8,"Tonse, Manipal",6000
+2014,EWT,83.2,63.5,CSE,51.19,"MDN, Manipal",0
+2014,EWT,78.4,67.4,EEE,7.8,"BrISEa, Bangalore",5000
+2014,EWT,82.88,70.33,ECE,62.64,"BrISEa, Bangalore",5000
+2014,EWT,91.68,67.5,CSE,60.17,"CSD, Manipal",6000
+2014,EWT,85,93,ECE,76.3,"Marvel, Pune",20000
+2014,EWT,84.66,76.66,ECE,72.47,"EMC, Bangalore",25000
+2014,EWT,83.36,76.4,CSE,76.42,"CSD, Manipal",6000
+2014,EWT,69.44,73.73,ECE,59.5,"BESCOM, Bangalore",0
+2014,EWT,83.2,78.33,ECE,64.45,"Kallows, Goa",25000
+2014,EWT,78.53,61.17,ECE,54,"Hi Ibra, Spain",35000
+2014,MS,89.6,76.1,IT,6.3,"CSD, Manipal",6000
+2014,MS,78,81.3,BME,60.1,"GVK Bio, Hyderabad",15000
+2014,MS,92.2,89.2,BME,76.36,"Volmo, Bhopal",6000
+2014,MS,92.96,82.83,MEE,8.79,"Philips Innovation, Bangalore",20000
+2014,MS,85.28,71.5,CSE,68,"Philips Innovation, Bangalore",20000
+2014,MS,86.8,94.2,BME,80.9,"Philips Innovation, Bangalore",20000
+2014,MS,79.4,73.16,BME,65,"Philips Innovation, Bangalore",20000
+2014,MS,74.3,76.9,BME,66.5,"Andronovo Labs, Hyd",0
+2014,MS,84,73.6,CSE,69.16,Himanshu IT,0
+2014,MS,84.8,70.2,BME,64.13,"BoP(MIRS), Manipal",5000
+2014,MS,81.12,68.83,ECE,6036,"BoP(MIRS), Manipal",5000
+2014,MS,75,84,CSE,69.5,"Kallows, Goa",9000
+2014,MS,70.24,66.63,MEE,8.44,"Bosch, Bangalore",20000
+2014,MS,79.04,73,BME,6.72,"Siemens, Goa",20000
+2014,VIR,57.4,66.16,CSE,68.67,"Arera, Bangalore",5000
+2014,VIR,79,74,ISE,73,"Intel, Bangalore",28000
+2014,VIR,83.52,72.33,EIE,72.43,"Philips Innovation, Bangalore",20000
+2014,VIR,71.04,40.33,ISE,55,"BrISEa, Bangalore",5000
+2014,VIR,84,62.67,ISE,5940,"ApCog, Manipal",0
+2014,VIR,91.4,73.6,CSE,6.52,"ISEoft, Mangalore",4000
+2014,VIR,78,59,CSE,6.4,"ENSAI (Arera, Bangalore)",45000
+2014,VIR,60,53,CSE,67.63,"ENSAI (Volmo, Bhopal)",45000
+2014,VLSI,83.8,67,EEE,63.5,"CVC, Bangalore",0
+2014,VLSI,86.88,84.83,ECE,63.13,"MDN, Manipal",0
+2014,VLSI,87.04,61.66,ECE,66.08,"Mediatek, Bangalore",18000
+2014,VLSI,82,92.8,ECE,70.97,"Broadcom, Bangalore",20000
+2014,VLSI,90.56,86.67,ECE,74.69,"Broadcom, Bangalore",20000
+2014,VLSI,90.08,83.16,EEE,73.61,"Broadcom, Bangalore",20000
+2014,VLSI,87.68,90.16,ECE,72.77,"Broadcom, Bangalore",20000
+2014,VLSI,88.8,85.5,ETC,60.86,"Broadcom, Bangalore",20000
+2014,VLSI,90.24,81,ECE,74.95,"Synopsys, Bangalore",25000
+2014,VLSI,93.6,90.8,ECE,83.1,"Synopsys, Bangalore",25000
+2014,VLSI,83,70,ECE,8.54,"Synopsys, Hyderabad",25000
+2014,VLSI,83.4,85.6,ECE,80.6,"Synopsys, Hyderabad",25000
+2014,VLSI,83.16,93.2,EEE,78.3,"Synopsys, Hyderabad",25000
+2014,VLSI,88.2,85.83,ECE,67.75,"Synopsys, Hyderabad",25000
+2014,VLSI,85.92,80.66,ECE,66.46,"Synopsys, Hyderabad",25000
+2014,VLSI,95.04,89.833,ECE,81.54,"Intel, Bangalore",28000
+2014,VLSI,92.8,90.5,ECE,82.1,"Intel, Bangalore",28000
+2014,VLSI,88.14,90.16,ECE,79.78,"Intel, Bangalore",28000
+2014,VLSI,77.92,84.5,ECE,74.06375,"Intel, Bangalore",28000
+2014,VLSI,88.32,82.66,ECE,71.76,"Intel, Bangalore",28000
+2014,VLSI,89.44,78,ECE,71,Mircochip,17000
+2014,VLSI,88.96,86,ECE,75.89,Mircochip,17000
+2014,VLSI,78,70,ECE,62.92,"ST, Noida",20000
+2014,VLSI,79.69,78.67,ECE,62.02,"EMC, Bangalore",25000
+2014,VLSI,92,70,ECE,65.06,"Emulex, Bangalore",33333
+2014,VLSI,92.33,96,ECE,85.14,Infineon,20000
+2014,VLSI,89,90.17,ECE,74.8,Infineon,20000
+2014,VLSI,85.76,93.17,ECE,80.1,"NXP Semiconductor, Bangalore",20000
+2014,VLSI,85.12,71,EEE,63.11,"BEL, Bangalore",0
+2014,VLSI,72.32,76.16,ECE,68.86,"BEL, Bangalore",0
+2014,VLSI,78.72,79.83,EEE,74.88,"CVC, Bangalore",0
+2014,VLSI,76,74,ECE,61,NaN,0
+2014,VLSI,76,60,ECE,61.66,"IISEc, Bangalore",0
+2014,VLSI,88.66,69,ECE,67.69,"ISEoft, Mangalore",4000
+2014,VLSI,66,67,ECE,61.38,"ISEoft, Mangalore",4000
+2014,VLSI,84.96,82.16,ECE,57.74,"ISEoft, Mangalore",4000
+2014,VLSI,83,80,ECE,75.08,"Microchip, Bangalore",17000
+2014,VLSI,71.166,68.5,ECE,58.006,"Cadence, Bangalore",20000
+2014,VLSI,86.24,84.33,ECE,65.86,"Rambus, Bangalore",25000
+2014,VLSI,83,91.7,ECE,74.06,NaN,NaN
+2014,VLSI,78.24,68.66,ECE,64.4,NaN,NaN
+2014,VSDV,87.52,85,ECE,74.56,"Whizchip, Bangalore",7000
+2014,VSDV,92.32,88,ECE,83.8,"Whizchip, Bangalore",7000
+2014,VSDV,79.6,74.2,ECE,65.48,"Whizchip, Bangalore",7000
+2014,VSDV,91,94.9,ECE,80.9,"Whizchip, Bangalore",7000
+2015,AES,NaN,NaN,NaN,NaN,Italy,45000
+2015,AES,NaN,NaN,NaN,NaN,"ABB, Bangalore",45000
+2015,AES,NaN,NaN,NaN,NaN,"BMW, Germany",45000
+2015,AES,NaN,NaN,NaN,NaN,Bosch Germany,45000
+2015,AES,NaN,NaN,NaN,NaN,"Bosch, Germany",45000
+2015,AES,NaN,NaN,NaN,NaN,"Bosch, Germany",45000
+2015,AES,NaN,NaN,NaN,NaN,"Bosch, Germany",45000
+2015,AES,NaN,NaN,NaN,NaN,"Cerema, France",45000
+2015,AES,NaN,NaN,NaN,NaN,"FEV, USA",45000
+2015,AES,NaN,NaN,NaN,NaN,"TI, France",45000
+2015,ES,NaN,NaN,NaN,NaN,Afferent Technologies,5000
+2015,ES,NaN,NaN,NaN,NaN,ApCog,0
+2015,ES,NaN,NaN,NaN,NaN,ApCog,0
+2015,ES,NaN,NaN,NaN,NaN,"Atonarp, Bangalore",15000
+2015,ES,NaN,NaN,NaN,NaN,"Atonarp, Bangalore",15000
+2015,ES,NaN,NaN,NaN,NaN,"Atonarp, Bangalore",15000
+2015,ES,NaN,NaN,NaN,NaN,"BigSolv, Bangalore",8000
+2015,ES,NaN,NaN,NaN,NaN,"Blackbuck, Hyd",7500
+2015,ES,NaN,NaN,NaN,NaN,"BrISEa, Bangalore",5000
+2015,ES,NaN,NaN,NaN,NaN,"BrISEa, Bangalore",5000
+2015,ES,NaN,NaN,NaN,NaN,"BrISEa, Bangalore",5000
+2015,ES,NaN,NaN,NaN,NaN,"BrISEa, Bangalore",6000
+2015,ES,NaN,NaN,NaN,NaN,"BrISEa, Bangalore",6000
+2015,ES,NaN,NaN,NaN,NaN,"BrISEa, Bangalore",6000
+2015,ES,NaN,NaN,NaN,NaN,"CSD, Manipal",6000
+2015,ES,NaN,NaN,NaN,NaN,Digitattva Tech,0
+2015,ES,NaN,NaN,NaN,NaN,"DSP Group, Bangalore",17000
+2015,ES,NaN,NaN,NaN,NaN,"DSP Group, Bangalore",17000
+2015,ES,NaN,NaN,NaN,NaN,"EMC, Bangalore",25000
+2015,ES,NaN,NaN,NaN,NaN,"EMC, Bangalore",25000
+2015,ES,NaN,NaN,NaN,NaN,"EMC, Bangalore",25000
+2015,ES,NaN,NaN,NaN,NaN,"Ericsson, Bangalore",25000
+2015,ES,NaN,NaN,NaN,NaN,"Ericsson, Bangalore",25000
+2015,ES,NaN,NaN,NaN,NaN,"Etrance Networks, Bangalore",0
+2015,ES,NaN,NaN,NaN,NaN,"Etrance Networks, Bangalore",NaN
+2015,ES,NaN,NaN,NaN,NaN,"GE, Bangalore",20000
+2015,ES,NaN,NaN,NaN,NaN,"Intel, Bangalore",28000
+2015,ES,NaN,NaN,NaN,NaN,"Intel, Bangalore",28000
+2015,ES,NaN,NaN,NaN,NaN,"Intel, Bangalore",28000
+2015,ES,NaN,NaN,NaN,NaN,"Intel, Bangalore",28000
+2015,ES,NaN,NaN,NaN,NaN,"Intel, Bangalore",28000
+2015,ES,NaN,NaN,NaN,NaN,"Intel, Bangalore",28000
+2015,ES,NaN,NaN,NaN,NaN,"Intel, Bangalore",28000
+2015,ES,NaN,NaN,NaN,NaN,"Intel, Bangalore",28000
+2015,ES,NaN,NaN,NaN,NaN,Manipal,NaN
+2015,ES,NaN,NaN,NaN,NaN,MDN (ApCog),0
+2015,ES,NaN,NaN,NaN,NaN,"Microchip, Bangalore",20000
+2015,ES,NaN,NaN,NaN,NaN,"Microsemi, Hyd",25000
+2015,ES,NaN,NaN,NaN,NaN,"NAL, Bangalore",0
+2015,ES,NaN,NaN,NaN,NaN,"NAL, Bangalore",0
+2015,ES,NaN,NaN,NaN,NaN,"Nokia, Bangalore",30000
+2015,ES,NaN,NaN,NaN,NaN,"Oracle, Bangalore",26000
+2015,ES,NaN,NaN,NaN,NaN,"Philips Innovation, Bangalore",20000
+2015,ES,NaN,NaN,NaN,NaN,"Philips Innovation, Bangalore",20000
+2015,ES,NaN,NaN,NaN,NaN,"Philips Innovation, Bangalore",20000
+2015,ES,NaN,NaN,NaN,NaN,"Philips Innovation, Bangalore",20000
+2015,ES,NaN,NaN,NaN,NaN,"Philips Innovation, Bangalore",20000
+2015,ES,NaN,NaN,NaN,NaN,WrapMe,NaN
+2015,ES,NaN,NaN,NaN,NaN,Yet to rECEIEve,NaN
+2015,ESI,NaN,NaN,NaN,NaN,"Airbus, Germany",45000
+2015,ESI,NaN,NaN,NaN,NaN,"Airbus, Germany",45000
+2015,ESI,NaN,NaN,NaN,NaN,"Bosch, France",45000
+2015,ESI,NaN,NaN,NaN,NaN,"Bosch, Germany",45000
+2015,ESI,NaN,NaN,NaN,NaN,"Flanders Make, Belgium",45000
+2015,ESI,NaN,NaN,NaN,NaN,"Flaners Make, Belgium",45000
+2015,ESI,NaN,NaN,NaN,NaN,"Infineon, Austria",45000
+2015,ESI,NaN,NaN,NaN,NaN,"Nintendo, Germany",45000
+2015,ESI,NaN,NaN,NaN,NaN,"Philips Innovation, Bangalore",45000
+2015,ESI,NaN,NaN,NaN,NaN,"TI, Germany",45000
+2015,ESI,NaN,NaN,NaN,NaN,"ZF Friedrichshafen AG, Germany",45000
+2015,ESI,NaN,NaN,NaN,NaN,"ZF Friedrichshafen AG, Germany",45000
+2015,EWT,NaN,NaN,NaN,NaN,"BrISEa, Bangalore",5000
+2015,EWT,NaN,NaN,NaN,NaN,"Centure Technologies, Bangalore",0
+2015,EWT,NaN,NaN,NaN,NaN,"Code Matrix, Bangalore",10000
+2015,EWT,NaN,NaN,NaN,NaN,Cranes Software,0
+2015,EWT,NaN,NaN,NaN,NaN,"CSD, Manipal",6000
+2015,EWT,NaN,NaN,NaN,NaN,"GE, Bangalore",20000
+2015,EWT,NaN,NaN,NaN,NaN,KPIT,15000
+2015,EWT,NaN,NaN,NaN,NaN,"Philips Innovation, Bangalore",20000
+2015,EWT,NaN,NaN,NaN,NaN,"Skanray, Mysore",8000
+2015,ISE,NaN,NaN,NaN,NaN,Biztime IT Solutions,0
+2015,ISE,NaN,NaN,NaN,NaN,"BrISEa, Bangalore",6000
+2015,ISE,NaN,NaN,NaN,NaN,"CSD, Manipal (Siemens, Goa)",6000
+2015,ISE,NaN,NaN,NaN,NaN,"GEMN R & D, Bangalore",8000
+2015,ISE,NaN,NaN,NaN,NaN,"Notary Kart, Bangalore (RTWO, Bangalore)",0
+2015,ISE,NaN,NaN,NaN,NaN,"Prubea, Manipal",10000
+2015,ISE,NaN,NaN,NaN,NaN,"Queryhome Soln, Bangalore (RTWO, Bangalore)",0
+2015,MS,NaN,NaN,NaN,NaN,"Life Bio Tech, Bangalore",0
+2015,MS,NaN,NaN,NaN,NaN,"Meddiff, Bangalore",15000
+2015,MS,NaN,NaN,NaN,NaN,"Meddiff, Bangalore",15000
+2015,MS,NaN,NaN,NaN,NaN,"Meddiff, Bangalore",15000
+2015,MS,NaN,NaN,NaN,NaN,"Oracle, Bangalore",26000
+2015,MS,NaN,NaN,NaN,NaN,Radiant Software,0
+2015,MS,NaN,NaN,NaN,NaN,"Skanray, Mysore",8000
+2015,MS,NaN,NaN,NaN,NaN,"Volmo, Pune",8000
+2015,VIR,NaN,NaN,NaN,NaN,"EMC, Bangalore",25000
+2015,VIR,NaN,NaN,NaN,NaN,"EMC, Bangalore",25000
+2015,VIR,NaN,NaN,NaN,NaN,"EMC, Bangalore",25000
+2015,VIR,NaN,NaN,NaN,NaN,"GE, Bangalore",20000
+2015,VIR,NaN,NaN,NaN,NaN,"GE, Bangalore",20000
+2015,VIR,NaN,NaN,NaN,NaN,"Ironjaw, Manipal",8000
+2015,VIR,NaN,NaN,NaN,NaN,"MIRS, Manipal",5000
+2015,VIR,NaN,NaN,NaN,NaN,"Oracle, Bangalore",26000
+2015,VIR,NaN,NaN,NaN,NaN,"StartUp, Manipal",0
+2015,VIR,NaN,NaN,NaN,NaN,"Winstrata, ",0
+2015,VLSI,NaN,NaN,NaN,NaN,Accord Software,NaN
+2015,VLSI,NaN,NaN,NaN,NaN,"Bitmapper, Pune",NaN
+2015,VLSI,NaN,NaN,NaN,NaN,CVC,NaN
+2015,VLSI,NaN,NaN,NaN,NaN,CVC,NaN
+2015,VLSI,NaN,NaN,NaN,NaN,"DSP Group, Bangalore",17000
+2015,VLSI,NaN,NaN,NaN,NaN,"Freescale (NXP), Noida",20000
+2015,VLSI,NaN,NaN,NaN,NaN,"Freescale (NXP), Noida",25000
+2015,VLSI,NaN,NaN,NaN,NaN,"Intel, Bangalore",28000
+2015,VLSI,NaN,NaN,NaN,NaN,"Intel, Bangalore",28000
+2015,VLSI,NaN,NaN,NaN,NaN,"Intel, Bangalore",28000
+2015,VLSI,NaN,NaN,NaN,NaN,"Intel, Bangalore",28000
+2015,VLSI,NaN,NaN,NaN,NaN,"Intel, Bangalore",28000
+2015,VLSI,NaN,NaN,NaN,NaN,"Intel, Bangalore",28000
+2015,VLSI,NaN,NaN,NaN,NaN,"Intel, Bangalore",28000
+2015,VLSI,NaN,NaN,NaN,NaN,"Intel, Bangalore",28000
+2015,VLSI,NaN,NaN,NaN,NaN,"Intel, Bangalore",28000
+2015,VLSI,NaN,NaN,NaN,NaN,"Intel, Bangalore",28000
+2015,VLSI,NaN,NaN,NaN,NaN,"Intel, Bangalore",28000
+2015,VLSI,NaN,NaN,NaN,NaN,"Intel, Bangalore",28000
+2015,VLSI,NaN,NaN,NaN,NaN,Manipal,NaN
+2015,VLSI,NaN,NaN,NaN,NaN,MDN. Manipal,0
+2015,VLSI,NaN,NaN,NaN,NaN,"NXP, Bangalore",20000
+2015,VLSI,NaN,NaN,NaN,NaN,Pixel Softtek,NaN
+2015,VLSI,NaN,NaN,NaN,NaN,"Rambus, Bangalore",20000
+2015,VLSI,NaN,NaN,NaN,NaN,"Siemens, Goa",20000
+2015,VLSI,NaN,NaN,NaN,NaN,SoISE,NaN
+2015,VLSI,NaN,NaN,NaN,NaN,"ST, Noida",20000
+2015,VLSI,NaN,NaN,NaN,NaN,"ST, Noida",20000
+2015,VLSI,NaN,NaN,NaN,NaN,"ST, Noida",20000
+2015,VLSI,NaN,NaN,NaN,NaN,"ST, NOida",20000
+2015,VLSI,NaN,NaN,NaN,NaN,"Whizchip, Bangalore",12000
+2015,VLSI,NaN,NaN,NaN,NaN,"Whizchip, Bangalore",12000
+2015,VLSI,NaN,NaN,NaN,NaN,"Whizchip, Bangalore",15000
+2015,VLSI,NaN,NaN,NaN,NaN,"Whizchip, Bangalore",15000
+2015,VLSI,NaN,NaN,NaN,NaN,"Xilinx (Qualcomm, Bangalore)",25000
+2015,VLSI,NaN,NaN,NaN,NaN,"Xilinx, Hyd",20000
+2015,VLSI,NaN,NaN,NaN,NaN,NaN,NaN
+2015,VLSI,NaN,NaN,NaN,NaN,NaN,NaN
+2016,AES,84,78,ECE,79.02,ESIGELEC,NaN
+2016,AES,82.5,86,ECE,64.7,ESIGELEC,NaN
+2016,AES,82,78.6,Mechatronics,7.67,ESIGELEC,NaN
+2016,AES,62.2,58.8,ECE,56.51,ESIGELEC,NaN
+2016,AES,82.08,64.66,ECE ,53.47,ESIGELEC,NaN
+2016,AES,75.36,0.5766,ECE ,59.92,ESIGELEC,NaN
+2016,AES,78.24,66.17,ECE,75.98,ESIGELEC,NaN
+2016,AES,82.04,69.77,ECE,55.74,ESIGELEC,NaN
+2016,AES,64.64,65.4,EEE,59,ESIGELEC,NaN
+2016,BDA,88.16,78.16,CSE,69.26,AIM,20000
+2016,BDA,70,59,ISE,7.41,AIM,20000
+2016,BDA,83.52,75.33,CSE,66.24,ApCog,NaN
+2016,BDA,NaN,NaN,NaN,NaN,Apcog Employee,NaN
+2016,BDA,91.04,85.8,ISE,77.8,Beckman,25000
+2016,BDA,60.8,63.2,CSE,6.93,CSD,6000
+2016,BDA,80.4,72.25,CSE,68.6,DataTeam,25000
+2016,BDA,81.76,80.67,CSE,69.5,Ericsson,25000
+2016,BDA,85.5,83.8,CSE,74.48,Meddiff,15000
+2016,BDA,77.44,72,CSE,63,MIRS,5000
+2016,BDA,78,70,MA,5.43,MIRS,5000
+2016,BDA,88.8,86.8,EEE,7.81,oracle,25000
+2016,BDA,80,64,CSE,67.5,"Philips Innovation, Bangalore",20000
+2016,BDA,66.08,77.66,CSE,64.43,"Philips Innovation, Bangalore",20000
+2016,BDA,74.5,54.5,CSE,7.13,"Philips Innovation, Bangalore",20000
+2016,BDA,82.88,62.66,CSE,57.2,SAP,NaN
+2016,BDA,83.36,60,CSE,58.57,SAP,NaN
+2016,BDA,82.72,49.66,CSE,57.41,SAP,NaN
+2016,ES,77.07,86.48,ETC,70.69,Arraystorm,16000
+2016,ES,74.08,56,ISE,7.12,Arraystorm,16000
+2016,ES,8.2,78.5,ECE,8.79,ArrISE,NaN
+2016,ES,77.6,45.16,ECE,51.42,Bigsolv,10000
+2016,ES,91.52,76.67,TCE,NaN,Ciborne,NaN
+2016,ES,77.92,75.66,BME,65.75,CSD,6000
+2016,ES,84,66.5,ECE,61.7,CSD,6000
+2016,ES,90.2,86.6,EEE,7.71,Dell,25000
+2016,ES,95.36,90.5,ECE,81.94,Dell,25000
+2016,ES,93.4,82,ECE,NaN,NaN,0
+2016,ES,82.2,74.5,ECE,72.3,DSP Group,NaN
+2016,ES,88.71,78.33,ETC,80.87,Ericsson,25000
+2016,ES,73.6,50.1,ECE,72,Ericsson,25000
+2016,ES,88.64,87,ECE,8.97,Ericsson,25000
+2016,ES,81.12,72.16,ECE,8.53,Ericsson,25000
+2016,ES,82.4,75,ECE,67.32,GE,NaN
+2016,ES,83.52,78.66,ECE,8.13,GE,NaN
+2016,ES,73.12,63.83,ECE,61.82,GEMN,8000
+2016,ES,76.96,79.5,ECE,76.92,GEMN,8000
+2016,ES,94.4,88.33,ECE,9.2,Infineon,25000
+2016,ES,85.36,80.33,CSE,61.13,Infineon,25000
+2016,ES,89.76,78.16,EEE,73.53,Infineon,25000
+2016,ES,91.2,79.33,ECE,70.24,"Intel, Bangalore",28000
+2016,ES,75.4,72,EEE,7.3,"Intel, Bangalore",28000
+2016,ES,95.36,66.83,ECE,59.13,"Intel, Bangalore",28000
+2016,ES,88.2,76.1,ECE,8.9,oracle,25000
+2016,ES,83.84,73.84,ECE,71.66,oracle,25000
+2016,ES,60.96,59.16,ECE,59.05,oracle,25000
+2016,ES,60,66.5,ISE,NaN,PESSIT,NaN
+2016,ES,84.4,71.2,ECE,58.04,"Philips Innovation, Bangalore",20000
+2016,ES,96.42,88.33,ECE,8.49,"Philips Innovation, Bangalore",20000
+2016,ES,86.88,89.83,ECE,81.14,"Philips Innovation, Bangalore",20000
+2016,ES,85.5,78.6,ECE,73.9,"Philips Innovation, Bangalore",20000
+2016,ES,83.84,64.33,ECE,70.69,Rambus,20000
+2016,ES,88.87,85.83,EEE,NaN,Robert Bosch,15000
+2016,ES,88,85,ECE,NaN,Rockwell Collins,NaN
+2016,ES,78.24,57.66,ECE,7.3,SAP,NaN
+2016,ES,87.2,77.3,ECE,66.9,SchnEIEder,30000
+2016,ES,86,63,ETC,58.81,Sooktha,NaN
+2016,ES,76,77.6,ECE,64.8,Sooktha,NaN
+2016,ES,72,80.16,EEE,64.07,synopsys,25000
+2016,ES,91.53,90.67,ETC,8.26,Toshiba,25000
+2016,ESI,79.99,62.2,EIE,6.03,ESIGELEC,NaN
+2016,ESI,81.6,73.5,ECE,58,ESIGELEC,NaN
+2016,ESI,88,78.33,ECE,69.9,ESIGELEC,NaN
+2016,ESI,85,52.75,ISE,5.53,ESIGELEC,NaN
+2016,ESI,93.8,92.8,ECE,8.87,ESIGELEC,NaN
+2016,ESI,82.5,82.4,ECE,68.3,ESIGELEC,NaN
+2016,ESI,76.64,63.3,CSE,66.2,ESIGELEC,NaN
+2016,ESI,7.6,74,BME,68.06,ESIGELEC,NaN
+2016,EWT,89.44,75,ECE,74.4,ArrISE,NaN
+2016,EWT,83.84,81.5,ECE,75.55,ArrISE,NaN
+2016,EWT,78.72,64.83,ECE,67.25,Beckman,25000
+2016,EWT,83.5,87.8,EIE,6.88,CD Control,7500
+2016,EWT,65.92,60.5,CSE,60.9,GE,NaN
+2016,EWT,75.57,80.16,ECE,75.46,oracle,26000
+2016,EWT,91.04,76.33,ECE,63.1,SchnEIEder,30000
+2016,EWT,89.12,75.66,ECE,8.05,SchnEIEder,30000
+2016,EWT,80,58,TCE,67,ST Noida,25000
+2016,EWT,83.52,67,TCE,56,NaN,NaN
+2016,ISE,NaN,NaN,NaN,NaN,Beckman,25000
+2016,ISE,NaN,NaN,NaN,NaN,CSD,6000
+2016,ISE,NaN,NaN,NaN,NaN,CSD,6000
+2016,ISE,NaN,NaN,NaN,NaN,"Intel, Bangalore",28000
+2016,ISE,NaN,NaN,NaN,NaN,k-,NaN
+2016,ISE,NaN,NaN,NaN,NaN,Kloaket Tech,NaN
+2016,ISE,NaN,NaN,NaN,NaN,MDN,NaN
+2016,ISE,NaN,NaN,NaN,NaN,"Philips Innovation, Bangalore, Manipal",25000
+2016,ISE,NaN,NaN,NaN,NaN,"Philips Innovation, Bangalore, Manipal",5000
+2016,ISE,NaN,NaN,NaN,NaN,"Philips Innovation, Bangalore, Manipal",5000
+2016,ISE,NaN,NaN,NaN,NaN,"SoISE, Manipal",NaN
+2016,ISE,NaN,NaN,NaN,NaN,Synconext,18000
+2016,ISE,NaN,NaN,NaN,NaN,FastStream,10000
+2016,ISE,NaN,NaN,NaN,NaN,NaN,NaN
+2016,MS,83.68,65.5,BME,60.47,Caliber Assurance,NaN
+2016,MS,90,80,CSE,6.8,Dell,25000
+2016,MS,90,85.5,ME ,8.42,Meddiff,15000
+2016,MS,7.8,76,BME,66.55,Meddiff,15000
+2016,MS,75.2,68.5,BME,67.77,oracle,25000
+2016,MS,85.38,65,BME,7.28,oracle,26000
+2016,MS,78,75.33,ME ,7.86,"Philips Innovation, Bangalore",20000
+2016,VIR,79.04,75,CSE,57.37,Beckman,25000
+2016,VIR,84.96,78.33,ETC,70,Beckman,25000
+2016,VIR,88,78.8,CSE,64.5,Cerner,22000
+2016,VIR,8.6,82,CSE,71.9,Dell,25000
+2016,VIR,86,86,ISE,69.51,Dell,25000
+2016,VIR,87.5,67.5,CSE,68.1,Ericsson,25000
+2016,VIR,61.6,63.16,CSE,62.85,GE,NaN
+2016,VIR,88.22,78.5,ISE,68.48,oracle,25000
+2016,VIR,79.68,71,CSE,7.05,"Philips Innovation, Bangalore",20000
+2016,VLSI,89.99,93,ECE,74.2,Infineon,25000
+2016,VLSI,86,85.3,ECE,7.14,Infineon,25000
+2016,VLSI,94.56,91,ECE,80.89,"Intel, Bangalore",28000
+2016,VLSI,76.2,72.5,TCE,68.07,"Intel, Bangalore",28000
+2016,VLSI,64,61,ECE,63,"Intel, Bangalore",28000
+2016,VLSI,83,71,ECE,60.6,"Intel, Bangalore",28000
+2016,VLSI,70,73,ETC,8.2,ST Noida,25000
+2016,VLSI,88,70,ECE,65,ST Noida,25000
+2016,VLSI,78.5,80.7,ECE,64.46,ST Noida,25000
+2016,VLSI,86,87,ECE,73.85,ST Noida,25000
+2016,VLSI,91.52,85.66,ECE,8.54,synopsys,25000
+2016,VLSI,94,94.8,ECE,8.3,synopsys,25000
+2016,VLSI,90.08,78,ECE,68.66,synopsys,25000
+2016,VLSI,89.92,8.27,MSc ECE,8.48,synopsys,25000
+2016,VLSI,84.33,86,ECE,8.1,Xilinx,20000
+2016,NA,NaN,NaN,NaN,NaN,Applied Materials,NaN
+2016,NA,NaN,NaN,NaN,NaN,Avin Systems,9000
+2016,NA,NaN,NaN,NaN,NaN,BrISEa,10000
+2016,NA,NaN,NaN,NaN,NaN,FIreEye,NaN
+2016,NA,NaN,NaN,NaN,NaN,KLA-Tencor,35000
+2016,NA,NaN,NaN,NaN,NaN,"Microchip, Bangalore",20000
+2016,NA,NaN,NaN,NaN,NaN,Neurosynaptic,8000
+2016,NA,NaN,NaN,NaN,NaN,Nokia,30000
+2016,NA,NaN,NaN,NaN,NaN,Nvidia,30000
+2016,NA,NaN,NaN,NaN,NaN,Pathpartner,NaN
+2016,NA,NaN,NaN,NaN,NaN,Samsung,NaN
+2016,NA,NaN,NaN,NaN,NaN,Seagate,NaN
+2016,NA,NaN,NaN,NaN,NaN,Syncolite,8000
+2016,NA,NaN,NaN,NaN,NaN,UseReady,NaN
+2016,NA,NaN,NaN,NaN,NaN,Vmware,25000
+2016,NA,NaN,NaN,NaN,NaN,Xilinx,NaN
+2016,NA,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,AES,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,AES,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,AES,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,AES,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,AES,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,AES,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,AES,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,AES,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,AES,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,AES,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,AES,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,AES,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,AES,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,AES,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,BDA,74.54,72.66,CE,8.03,GE,25000
+2017,BDA,8.4,75,ISE,58.2,KPIT,20000
+2017,BDA,80.2,79.1,E&I,6.68,Pixcellence,20000
+2017,BDA,86.4,75.83,CE,7.93,Oracle,25000
+2017,BDA,88.32,51.83,CSE,55.1,KPIT,20000
+2017,BDA,9.6,66.2,CSE,6.25,Dell,25000
+2017,BDA,79.52,59,CSE,60.63,Oracle,25000
+2017,BDA,NaN,NaN,NaN,NaN,VCU,NaN
+2017,BDA,91.4,92.4,IT,6.68,Dell,25000
+2017,BDA,84.13,74.83,CSE,52,Dell,25000
+2017,BDA,95.52,92.12,CSE,77.67,Dell,25000
+2017,BDA,NaN,NaN,NaN,NaN,VCU,NaN
+2017,BDA,81,0.8123,CSE,7.76,Ericsson,25000
+2017,BDA,81.7,84,CSE,63.88,Beckman,25000
+2017,BDA,86.88,67.33,ISE,56.92,Dell,25000
+2017,BDA,78.1,73.6,ISE,66.92,Ericsson,25000
+2017,BDA,92.32,82.16,ISE,69.11,"Philips Innovation, Bangalore",25000
+2017,BDA,80.8,80.33,ISE,62.54,Dell,25000
+2017,BDA,NaN,NaN,NaN,NaN,VCU,NaN
+2017,BDA,87.68,84.5,CSE,70.15,"Philips Innovation, Bangalore",25000
+2017,BDA,84.64,54,ISE,54.75,KPIT,20000
+2017,BDA,86.4,55.3,CSE,64.69,GE,25000
+2017,BDA,95.52,76.16,ISE,62.54,Dell,25000
+2017,BDA,81.5,75,ISE,73,Oracle,25000
+2017,BDA,53.33,52.1,ISE,52.1,KPIT,20000
+2017,BDA,77.76,63.66,CSE,50,KPIT,20000
+2017,BDA,84,73,ISE,56.3,Oracle,25000
+2017,BDA,70.08,58.83,ISE,53.64,"HISE LAB, SOISE",NaN
+2017,BDA,71.04,67.33,CSE,54.98,KPIT,20000
+2017,BDA,88,92.6,IT,76,"Philips Innovation, Bangalore",25000
+2017,BDA,76.96,79.89,ISE,64.3,Oracle,25000
+2017,BDA,74.32,65.58,ISE,63.39,Oracle,25000
+2017,BDA,73.92,44.5,ISE,53.25,KPIT,20000
+2017,BDA,65.76,52,MCA,76.34,KPIT,20000
+2017,BDA,81,63,ISE,57.25,KPIT,20000
+2017,BDA,84,82,MA,62.5,KPIT,20000
+2017,BDA,72.8,47,ECE,46.6,KPIT,20000
+2017,BDA,87.52,51.5,CSE,55.83,"HISE LAB, SOISE",NaN
+2017,BDA,68,71.54,ISE,67,Ericsson,25000
+2017,BDA,NaN,NaN,NaN,NaN,Dell,25000
+2017,BDA,90,89.7,ECE,62.2,Nokia,25000
+2017,BDA,82.72,62.66,ECE,7.16,Oracle,25000
+2017,BDA,80,67.3,CSE,55.2,GE,25000
+2017,BDA,70.72,56.33,CSE,50.12,NaN,NaN
+2017,BDA,84.96,72.33,ISE,62.24,GE,25000
+2017,ES,91.68,79.66,ECE,74,"Intel, Bangalore",6000
+2017,ES,93.12,65.3,CSE,62.17,Oracle,25000
+2017,ES,94,76.6,EEE,69.23,"Intel, Bangalore",28000
+2017,ES,6.4,56.333,ECE,55.22,APCOG,NaN
+2017,ES,76.18,52.17,ECE,52.22,Ambee,15000
+2017,ES,77.28,87.33,ECE,72.72,"Intel, Bangalore",28000
+2017,ES,62.33,69.83,ECE,57.15,Marvel,30000
+2017,ES,96.32,86.83,ITE,82.5,"Intel, Bangalore",28000
+2017,ES,83,80,ECE,70.53,"Intel, Bangalore",28000
+2017,ES,66.56,69.9,ECE,63.85,Ericsson,25000
+2017,ES,96,96.83,ECE,80.76,"Intel, Bangalore",28000
+2017,ES,75.04,83.5,ECE,74.61,Oracle,25000
+2017,ES,89.92,78.33,TCE,72.45,"Intel, Bangalore",28000
+2017,ES,90.24,70.24,ECE,70,Avin Systems,12000
+2017,ES,84.32,77.66,ECE,71.14,Avin Systems,12000
+2017,ES,87.68,80,ECE,69.72,Oracle,25000
+2017,ES,84.96,65.66,ECE,65.8,TCS,NaN
+2017,ES,87.83,92.6,ECE,76.83,"Intel, Bangalore",28000
+2017,ES,79.8,78,ECE,61.04,Enmarq Tech,25000
+2017,ES,62.72,72.66,ECE,65.45,Dell,25000
+2017,ES,77,63,ECE,64,Nokia,NaN
+2017,ES,76,73,CSE,70,Avin Systems,12000
+2017,ES,90.08,76,ECE,66.96,"Intel, Bangalore",28000
+2017,ES,77,57,CSE,64.23,"Intel, Bangalore",28000
+2017,ES,92,91.9,ECE,78.22,"Intel, Bangalore",28000
+2017,ES,93.28,67,TCE,60.36,"Intel, Bangalore",28000
+2017,ES,71.32,80.16,ITE,63.38,KPIT,20000
+2017,ES,84.32,74,ECE,56.48,APCOG,NaN
+2017,ES,93.12,71.66,EEE,64.09,KPIT,20000
+2017,ES,72,78,ECE,72,"Intel, Bangalore",28000
+2017,ES,84.44,88.67,ECE,61.67,"Intel, Bangalore",28000
+2017,ES,84.16,85,ECE,68.31,"Intel, Bangalore",28000
+2017,ES,99.04,96.8,ECE,9.1,"Intel, Bangalore",28000
+2017,ES,82.56,90.16,ECE,78.73,"Intel, Bangalore",28000
+2017,ES,75.36,79.33,ECE,6.88,"Intel, Bangalore",28000
+2017,ES,72.38,66.65,EEE,63.11,KPIT,20000
+2017,ES,89.6,78.16,CSE,64.94,"Intel, Bangalore",28000
+2017,ESI,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,ESI,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,ESI,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,ESI,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,ESI,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,ESI,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,ESI,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,ESI,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,ESI,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,ESI,NaN,NaN,NaN,NaN,ESIGELEC,NaN
+2017,ISE,86.89,68.33,NaN,7.19,MDN,NaN
+2017,ISE,91.9,53.8,NaN,64,"Philips Innovation, Bangalorea, Manipal",5000
+2017,ISE,7.2,47.16,NaN,89.57,Synconext,18000
+2017,ISE,67.8,57.8,NaN,81.6,"SoISE, Manipal",NaN
+2017,ISE,83.84,79.33,NaN,86.6,"Intel, Bangalore",28000
+2017,ISE,47,60.67,NaN,81.59,FastStream,10000
+2017,ISE,5.8,49.01,NaN,77.4,"Philips Innovation, Bangalore, Manipal",5000
+2017,ISE,74.72,62,NaN,80.4,CSD,6000
+2017,ISE,5.8,53,NaN,56.24,NaN,NaN
+2017,ISE,66.72,57.66,NaN,67,"Philips Innovation, Bangalore, Manipal",5000
+2017,ISE,88.64,80,NaN,92.12,Kloaket Tech,NaN
+2017,ISE,8.1,63.3,NaN,57.8,Beckman,25000
+2017,ISE,70,65,NaN,68,CSD,6000
+2017,ISE,6.1,48,NaN,48.3,NaN,NaN
+2017,MS,92.48,80.83,MEE,7.65,"Philips Innovation, Bangalore",20000
+2017,MS,91.2,83.16,BME,78.46,"Philips Innovation, Bangalore",20000
+2017,MS,79.04,66.33,ECE,62,Dell,25000
+2017,MS,85,73,CSE,59,Oracle,25000
+2017,VIR,76.96,72.16,Mechatronics,72.69,VMware,30000
+2017,VIR,96.8,82.3,ISE,79.75,Dell,25000
+2017,VIR,91.68,87.66,CSE,73.22,Dell,25000
+2017,VIR,86.56,76,ISE,59.44,Ericsson,25000
+2017,VIR,96,84.17,ECE,61.24,Dell,25000
+2017,VIR,80.8,75.6,BME,6.49,Dell,25000
+2017,VIR,80.48,69,CSE,71.66,Dell,25000
+2017,VIR,74.56,74.33,ECE,63.73,Dell,25000
+2017,VIR,73.6,59.5,CSE,56,Nokia,NaN
+2017,VLSI,90.8,66.83,ECE,59.5,Xilinx,25000
+2017,VLSI,68.96,69.16,ECE,73.78,Qualcomm,NaN
+2017,VLSI,88.8,93.33,ECE,83.4,Nvidia,35000
+2017,VLSI,84.85,84.33,ECE,74.94,"Intel, Bangalore",28000
+2017,VLSI,87.3,93.4,ECE,79.29,"Intel, Bangalore",28000
+2017,VLSI,93,95.1,ECE,83.457,"Intel, Bangalore",28000
+2017,VLSI,9.8,92,ECE,79.3,"Intel, Bangalore",28000
+2017,VLSI,94.08,90.17,ECE,70.57,"Intel, Bangalore",28000
+2017,VLSI,96.64,94.85,ECE,80.83,"Intel, Bangalore",28000
+2017,VLSI,91,83.75,ECE,92.19,"Intel, Bangalore",28000
+2017,VLSI,89.76,82.4,ECE,69.2,"Intel, Bangalore",28000
+2017,VLSI,74.42,60.16,ECE,63.99,"Intel, Bangalore",28000
+2017,VLSI,87.52,81,ECE,61.78,"Intel, Bangalore",28000
+2017,VLSI,9.6,89.5,ECE,87.9,"Intel, Bangalore",28000
+2017,VLSI,89,78.2,ETE,7.73,NaN,NaN
+2017,VLSI,94.24,92.16,ECE,76.89,"Intel, Bangalore",28000
+2017,VLSI,81.2,68.8,ECE,65.6,Mediatek,33333
+2017,VLSI,83.3,77.9,ECE,6.33,Mirafra,NaN
+2017,VLSI,80.96,82,ECE,73.26,FastStream,15000
+2017,VLSI,9.4,NA,ECE,75.5,"Intel, Bangalore",28000
+2017,VLSI,96.96,NA,ECE,69.73,"Intel, Bangalore",28000
+2017,VLSI,58.5,67,ECE,6.88,Mirafra,NaN
+2017,VLSI,86.7,80.3,ECE,66.2,"Intel, Bangalore",28000
+2017,VLSI,86.5,74.4,ECE,77.1,"Intel, Bangalore",28000
+2017,VLSI,87.52,80.5,EEE,73.44,Mirafra,NaN
+2017,VLSI,88.96,86.3,ECE,60.3,"ST, Noida",25000
+2017,VLSI,83.2,72.5,ECE,77.43,"Intel, Bangalore",28000
+2017,VLSI,84.84,55,ECE,53.24,NaN,NaN
+2017,VLSI,81.76,64.16,ECE,63.18,FastStream,15000
+2017,VLSI,74,76,ECE,68.46,infineon,25000
+2017,VLSI,94.24,88.83,ECE,76.02,"Intel, Bangalore",28000
+2017,VLSI,72.46,52.97,ECE,6.59,Gujarat,NaN
+2017,VLSI,75.84,62.89,ECE,57,Mirafra,NaN
+2017,VLSI,84.3,89.1,EEE,9.22,"Intel, Bangalore",28000
+2017,VLSI,89,74,ECE,8.58,Mirafra,NaN
+2017,VLSI,8.8,79.5,ECE,62.675,infineon,25000
+2017,VLSI,95.52,89,ECE,79.31,FastStream,15000
+2017,VLSI,89.76,89.16,ECE,78.4,infineon,25000
+2018,BDA,7,76,ISE,57.89,"Philips Innovation, Bangalore",25000
+2018,BDA,9.4,77.6,CSE,76.38,Sentienz,18000
+2018,BDA,94.08,89.16,CSE,73.96,"Philips Innovation, Bangalore",25000
+2018,BDA,85,65,CSE,62.16,"Philips Innovation, Bangalore",25000
+2018,BDA,91.8,87.4,CSE,56.1,GE,35000
+2018,BDA,82.56,83,CSE,64.1,Datateam,25000
+2018,BDA,10,87.4,CSE,76.88,Nokia,30000
+2018,BDA,95.04,90.33,CSE,68.94,Avin Systems,12000
+2018,BDA,65.92,60.83,CSE,68.85,Datateam,25000
+2018,BDA,79.2,78.66,ISE,65.16,Nokia,30000
+2018,BDA,84.28,86.67,CSE,59.48,"Philips Innovation, Bangalore",25000
+2018,BDA,8.8,67,ISE,62.04,Cerner,22000
+2018,BDA,9,64.2,CSE,80.92,Nokia,30000
+2018,BDA,87.04,83.16,EEE,6.2,Embitel,20000
+2018,BDA,95.2,94,CSE,8.53,Embitel,20000
+2018,BDA,8.2,82,CSE,7.5,KPIT,20000
+2018,BDA,87.4,58.4,ISE,74.46,Nokia,30000
+2018,BDA,74.4,60.5,ECE,60.01,"Philips Innovation, Bangalore",25000
+2018,BDA,8.6,73,CSE,63,KPIT,20000
+2018,BDA,82.4,66.4,CSE,53.2,CEAT,10000
+2018,BDA,9,93.6,ECE,65.7,Reliance,50000
+2018,BDA,90.4,74.5,ISE,6.81,Nokia,30000
+2018,BDA,9,90.8,ECE,67.22,Nokia,30000
+2018,BDA,69.76,56.66,ISE,54.14,"Philips Innovation, Bangalore",25000
+2018,BDA,74,61.5,CSE,60.91,GE,35000
+2018,BDA,8.2,78.33,ISE,7.95,"Philips Innovation, Bangalore",25000
+2018,BDA,84.4,78.8,ECE,6.11,Reliance,50000
+2018,BDA,93.28,80.3,ECE,62.85,Reliance,50000
+2018,BDA,7.6,86,ECE,7.78,Beckman,25000
+2018,BDA,86.56,92.67,CSE,60.08,Cerner,22000
+2018,BDA,85.6,84,ETE,76.41,Robert Bosch,15000
+2018,BDA,90.4,76.33,CSE,55.44,NaN,NaN
+2018,BDA,79.68,82.33,ISE,63.98,NaN,NaN
+2018,BDA,77.28,69.5,CSE,64.42,Tallyx Labs,NaN
+2018,BDA,93.12,81.33,CSE,57.51,NaN,NaN
+2018,BDA,51.83,48.66,CSE,58.69,NaN,NaN
+2018,BDA,9.7,94.7,ECE,56.95,NaN,NaN
+2018,BDA,89.92,84.3,CSE,62.3,NaN,NaN
+2018,BDA,8,73.6,ECE,6.47,NaN,NaN
+2018,CC,0.936,92,CSE,69.43,Dell,25000
+2018,CC,91.52,84.16,CSE,0.72,"Philips Innovation, Bangalore",25000
+2018,CC,72.32,76,CSE,7.78,Avin Systems,12000
+2018,CC,60.2,50.5,ECE,91.01,"Philips Innovation, Bangalore",25000
+2018,CC,74.24,67.14,CSE,0.56,MIRS,5000
+2018,CC,75.4,75,CSE,7.6,Nokia,30000
+2018,CC,73.92,50.01,CSE,73.1,Bharat Robotics System,10000
+2018,CC,78.42,74.6,ECE,7.8,Avin Systems,12000
+2018,CC,89.61,86.54,ISE,68.48,"Philips Innovation, Bangalore",25000
+2018,CC,90.5,81.5,ECE,95.1,"Philips Innovation, Bangalore",25000
+2018,CC,70,58,CSE,50,CSD,9000
+2018,CC,84.48,78.33,BSc,77.09,Germany,NaN
+2018,CC,75.2,59,ISE,55.4,NaN,NaN
+2018,CC,85.44,65.5,TCE,55.32,CSD,NaN
+2018,CC,79.6,80.08,MECH,5.8,NaN,NaN
+2018,CC,88.48,58.66,ECE,61.5,NaN,NaN
+2018,CC,8.4,87.3,ECE,67,Oracle,26000
+2018,CC,77.28,72.5,ISE,64,"Intel, Bangalore",35000
+2018,CC,83.52,71.33,ISE,67.82,Oracle,26000
+2018,CC,64.6,76.6,ISE,62.8,"Philips Innovation, Bangalore",25000
+2018,CC,73.36,58.5,ISE,60.49,FireEye,30000
+2018,CC,80.16,79.33,CSE,73.11,IBM,40000
+2018,CC,86.88,82.33,ECE,60.76,KPIT,20000
+2018,CC,86.21,73,CSE,63,"Intel, Bangalore",35000
+2018,CC,68.8,70.83,CSE,58.45,NaN,NaN
+2018,CC,80.48,79.66,ECE,63.64,NaN,NaN
+2018,EWT,85.33,78.8,ECE,5.33,APCOG,6000
+2018,EWT,7.4,67.33,ECE,61.48,KPIT,20000
+2018,EWT,89.12,86.66,ECE,77.46,Marvell,30000
+2018,EWT,92.48,87.83,ECE,65.94,Dell,25000
+2018,EWT,90.72,80,ECE,58.6,CSD,9000
+2018,EWT,90.08,68.18,EIE,7.08,Embitel,20000
+2018,EWT,7.8,76.16,ECE,69.57,Dell,25000
+2018,EWT,88,93.16,ECE,73.79,Analog DevISE,30000
+2018,EWT,82.56,88.16,ECE,72.19,Dell,25000
+2018,EWT,88.48,87.26,ECE,71.02,Infineon,33000
+2018,EWT,72.96,78.16,ECE,67.5,DSP Group,25000
+2018,EWT,7.6,68.3,EEE,51.7,L&T,NaN
+2018,EWT,83.52,77.33,ECE,66.29,Toyota,NaN
+2018,EWT,72.16,75,ECE,63.83,NaN,NaN
+2018,EWT,7.2,54.16,ECE,59.18,NaN,NaN
+2018,ES,96.96,89.83,ECE,77.51,Dell,25000
+2018,ES,93.76,88.16,CSE,72.27,"Microchip, Bangalore",27000
+2018,ES,88.64,80.83,TCE,70.02,"Intel, Bangalore",35000
+2018,ES,97.44,88.67,EIE,8.73,"Intel, Bangalore",35000
+2018,ES,84.6,64.8,EEE,7.77,Nokia,30000
+2018,ES,92,78,EEE,7.39,Dell,25000
+2018,ES,70.4,56.83,ECE,54.97,KPIT,20000
+2018,ES,93.92,88.67,ECE,75.89,Nokia,30000
+2018,ES,85.6,72.5,ECE,77,"Intel, Bangalore",35000
+2018,ES,96.32,90.83,EIE,8.58,"Intel, Bangalore",35000
+2018,ES,73.76,66,ECE,71.87,KPIT,20000
+2018,ES,92.5,95.1,ECE,89.8,Cypress,25000
+2018,ES,78.4,89,ECE,62.06,"Intel, Bangalore",35000
+2018,ES,92.96,87.83,ECE,80.34,Nokia,30000
+2018,ES,88.16,78.16,ECE,66.11,"Intel, Bangalore",35000
+2018,ES,93.6,84.33,CSE,69.94,Dell,25000
+2018,ES,84.48,82.25,ECE,61.47,KPIT,20000
+2018,ES,10,92.5,ECE,62.38,"Intel, Bangalore",35000
+2018,ES,88.6,88.5,ECE,7.94,"Intel, Bangalore",35000
+2018,ES,75,75.9,ECE,62.6,KPIT,20000
+2018,ES,93.92,90.33,ECE,75.14,Whirlpool,25000
+2018,ES,80.92,85,ECE,62.75,KPIT,20000
+2018,ES,86,61.33,ECE,72.21,KPIT,20000
+2018,ES,8,71,ECE,68.83,KPIT,20000
+2018,ES,68,77.5,ECE,65.21,"Intel, Bangalore",35000
+2018,ES,10,58.33,ECE,54.6,Oracle,26000
+2018,ES,69.76,81.16,EEE,60.9,Embitel,20000
+2018,ES,74.7,79.6,ISE,5.89,Analog DevISE,30000
+2018,ES,87.16,92.2,ECE,8.78,Nokia,30000
+2018,ES,7.2,64.8,ECE,59.92,"Intel, Bangalore",35000
+2018,ES,8.4,70.6,ECE,74.76,Synersense,12000
+2018,ES,95.84,94.33,ECE,75.29,Infineon,33000
+2018,ES,84,62,CSE,61.1,KPIT,20000
+2018,ES,90.18,57.67,ECE,51.82,"Intel, Bangalore",35000
+2018,ES,74.6,64.6,ECE,75.58,"Intel, Bangalore",35000
+2018,ES,94,90.42,ECE,72.91,Infineon,33000
+2018,ES,85.76,80.17,ECE,65.5,"Intel, Bangalore",35000
+2018,ES,69.44,76.67,TCE,68.85,"Intel, Bangalore",35000
+2018,IT,69.28,70.83,ECE,56.17,APCOG,6000
+2018,IT,74.4,76.9,CSE,67.5,"Microchip, Bangalore",27000
+2018,IT,8.4,75,ECE,5.93,"Philips Innovation, Bangalore",25000
+2018,IT,73.44,87.16,ECE,77.91,Infineon,33000
+2018,IT,88,78,ECE,68,ArrISE,30000
+2018,IT,72,75,EEE,61,Continental,15000
+2018,IT,92.64,91.8,ECE,70.8,Infineon,33000
+2018,IT,82.88,89.16,CSE,67.66,ArrISE,30000
+2018,IT,83.76,77,BME,65.1,Reliance,50000
+2018,IT,87.36,89.67,EEE,72.95,ArrISE,30000
+2018,IT,72.3,61.1,ECE,61.56,"Philips Innovation, Bangalore",25000
+2018,IT,90.88,86.66,EEE,75.84,Infineon,33000
+2018,IT,8.8,74.6,ECE,6.83,Infineon,33000
+2018,IT,87.84,75.5,ECE,60.61,KPIT,20000
+2018,IT,8.6,89.83,ECE,68.33,"Philips Innovation, Bangalore",25000
+2018,IT,91.04,68,EEE,60.55,"Philips Innovation, Bangalore",25000
+2018,IT,58.88,60.83,ECE,68.51,Nokia,30000
+2018,IT,84,68,BME,64,NaN,NaN
+2018,MS,97.12,84.83,Medical ECE,9.11,Samsung,50000
+2018,MS,9.2,83,Medical ECE,8.43,"Philips Innovation, Bangalore",25000
+2018,MS,84,81.5,BME,6.69,Analog DevISE,30000
+2018,MS,9.4,86,ISE,73.54,Robert Bosch,15000
+2018,MS,85.12,0.56,CSE,55.73,Meddiff,15000
+2018,MS,8.4,80.16,BME,65.22,Meddiff,15000
+2018,MS,10,88.8,CSE,75.5,Samsung,50000
+2018,MS,90.24,87.33,Medical ECE,8.66,"Philips Innovation, Bangalore",25000
+2018,MS,8.2,74.17,BME,65.86,NaN,NaN
+2018,MS,68.57,75.66,CSE,60,"Philips Innovation, Bangalore",25000
+2018,MS,58,58.33,BME,58.36,NaN,NaN
+2018,MS,66,65,BME,58,NaN,NaN
+2018,MS,8.4,83.33,BME,62.52,NaN,NaN
+2018,MS,68,52,ISE,54.4,NaN,NaN
+2018,VLSI,93.44,77.8,ECE,8.7,"Intel, Bangalore",35000
+2018,VLSI ,85.5,89.8,ECE,8.67,"NXP, Nodia",25000
+2018,VLSI,85.5,74.6,EIE,65.34,"NXP, Nodia",25000
+2018,VLSI ,73.14,81,ECE,64.49,"Intel, Bangalore",35000
+2018,VLSI,74.24,59.33,ECE,65.89,KPIT,20000
+2018,VLSI ,79.84,88,ECE,75.83,"Intel, Bangalore",35000
+2018,VLSI,83.2,69.17,EEE,68.88,"Intel, Bangalore",35000
+2018,VLSI ,92.16,87.5,ECE,8.69,"Intel, Bangalore",35000
+2018,VLSI,9.2,93.5,ECE,8.88,"Intel, Bangalore",35000
+2018,VLSI ,87.04,78.66,ECE,72.64,Infineon,33000
+2018,VLSI,76.6,89,EEE,7.23,"Intel, Bangalore",35000
+2018,VLSI ,86.56,86.66,ECE,69.94,"Intel, Bangalore",35000
+2018,VLSI,92.48,89.67,ECE,68.57,"Intel, Bangalore",35000
+2018,VLSI ,97.92,91.33,ECE,8.65,"Intel, Bangalore",35000
+2018,VLSI,93.12,94.5,ECE,75.48,"Intel, Bangalore",35000
+2018,VLSI ,74.88,73.5,ECE,57.6,"Intel, Bangalore",35000
+2018,VLSI,88.96,75.33,ECE,65.25,"Microchip, Bangalore",27000
+2018,VLSI ,79.64,81.67,EEE,72.57,Ensilica,15000
+2018,VLSI,83.04,85.5,EEE,66.39,Ensilica,15000
+2018,VLSI ,94.16,95,ECE,7,"Intel, Bangalore",35000
+2018,VLSI,84.48,66.33,ECE,70.08,"Intel, Bangalore",35000
+2018,VLSI ,75.84,77.67,EEE,74.58,"Intel, Bangalore",35000
+2018,VLSI,90.88,89,ECE,78.27,"Intel, Bangalore",35000
+2018,VLSI ,91.52,88.3,ECE,74.82,Ensilica,15000
+2018,VLSI,73.28,55.5,ECE,61.35,"NXP, Nodia",25000
+2018,VLSI ,8.6,55.6,EIE,7.33,Samsung,35000
+2018,VLSI,90.33,86.66,ECE,75.64,"Intel, Bangalore",35000
+2018,VLSI ,85.76,80.16,ECE,56.75,Ensilica,15000
+2018,VLSI,95.36,94.33,ECE,81.44,Nvidia,35000
+2018,VLSI ,56.5,70.3,ECE,50.3,"Intel, Bangalore",35000
+2018,VLSI,87.2,NaN,ECE,7.27,"Intel, Bangalore",35000
+2018,VLSI ,87.2,NaN,ECE,64.69,"Intel, Bangalore",35000
+2018,VLSI,92.8,90.3,ECE,54.36,"Intel, Bangalore",35000
+2018,VLSI ,83,79.8,ECE,73.46,"Intel, Bangalore",35000
+2018,VLSI,57.12,62,ECE,63.03,NaN,NaN
+2018,VLSI ,63.8,64.6,ECE,7.47,Bitmapper,NaN
+2018,VLSI,91.16,96.8,EEE,7.12,Si2chip,NaN
+2018,VLSI ,88.55,68.64,ECE,60.34,NaN,NaN
+2018,VLSI,93.92,92.66,ECE,58.94,"NXP, Bangalore",NaN
+2018,VLSI ,61.92,72.15,ECE,50.18,NaN,NaN

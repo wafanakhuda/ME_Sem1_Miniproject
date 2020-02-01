@@ -1,0 +1,33 @@
+1)How many students from each branch are placed?
+2)What is the rate of improvement of placements in every corresponding years?
+3)What is the percentage of experienced students getting placed?
+4)What percentage of students with 60+ as their aggrigate are placed?
+5)What percentage of students with aggrigate below 60 are placed?
+6)What percentage of students who scored above 6 in their ME 1 sem got placed?
+7)What percentage of students are paid stipend above 25000?
+8)How many companies pay stipend above 25000?
+9)How many companies pay stipend below 25000?
+10)How much is the highest paid stipend?
+11)How many students are placed and how many are not placed?
+12)From each branch of engineering how many are placed?
+13)From each branch of ME how many are placed?
+14)Comparing placement ratio yearwise?
+15)Comparing the ratio of placement for each company.
+16)How many people with backlogs are placed?
+17)How many had immediate joining date for the internship?
+18)How many students from every bachelors branch of are placed?
+19)What is the overall placement statistics of each company?
+20)What percentage of students with ECE as their decipline in Bachelors got placed in Bangalore.
+21)What percentage of students earning stipend above 15000 belong to Big Data?
+22)How many students who scored above 80 in their 10th, 12th, BE and Masters got placed in Intel, Philips and Samsung?
+23)How many students in the past 7 yeatrs got placed in ESIGELLEC?
+24)To what extent did the experience of students contribute in their placements?
+25)How many students got plced outside of India?
+26)How many students who got placed, converted thier internships to a full time?
+27)On an average how many hours of experience is concidered effective for the placement after their masters?
+28)What is the percentage of students NOT placed?
+29)For those students who are not placed, what is their grade in ME?
+30)How many students from AES are placed have stipend above 15000?
+31)On an average, who many students from Cloud Computing are placed abrod in the 2017 and 2018? 
+32)what is the average duration of the internships students got from each company?
+
